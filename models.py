@@ -84,5 +84,8 @@ class Game(db.Model):
             'city' : self.city
         }
 
-db.drop_all()
-db.create_all()
+def create_tables():
+    db.drop_all()
+    db.create_all()
+
+create_tables
