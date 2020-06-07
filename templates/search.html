@@ -1,0 +1,76 @@
+{% extends 'shell.html'%}
+
+{% block body %}
+
+    {% if players|length == 0 and teams|length == 0 and games|length == 0%}
+        <div class="alert alert-danger" role="alert">
+            No matching elements found, please try another search!
+        </div>
+    {% endif %}
+
+    <div class="container">
+
+        {% if players|length > 0 %}
+            <h2>Players</h2>
+        {% endif %}
+
+       <div class="row" align="center">
+            {% for player in players %}
+            <div class="col-sm">
+                <div class="card" style="width: 18rem;">
+                    <img src="https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/{{ player.teamId }}/2019/260x190/{{player.playerId}}.png"
+                    alt="logo" class="card-img-top">
+                    <div class="card-body">
+                        <a href="/player/{{player.playerId}}" id="player-button" class="btn btn-primary team-link">{{player.firstName}} {{player.lastName}}</a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="container">
+        {% if teams|length > 0 %}
+            <h2>Teams<h2>
+            </br>
+        {% endif %}
+        <div class="row" align="center">
+            {% for team in teams %}
+            <div class="col-sm">
+                <div class="card" style="width: 18rem; padding:5px;">
+                    <img src="https://stats.nba.com/media/img/teams/logos/{{ team.abbreviation }}_logo.svg"
+                    alt="logo" class="card-img-top">
+                    <div class="card-body">
+                        <a href="/teams/{{team.abbreviation}}" id="team-button" class="btn btn-primary team-link">{{team.teamName}}</a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="container">
+        {% if games|length > 0 %}
+                <h2>Games<h2>
+                </br>
+        {% endif %}
+       <div class="row" align="center">
+            {% for game in games %}
+            <div class="col-sm">
+            <div class="card" style="width: 18rem; padding:5px;">
+            <tr>
+              <td scope="row">{{game.date[:10]}}</td>
+              <td>{{game.city}}</td>
+              <td><a href="{{url_for('single_team_page', abbr = game.homeTeamAbbr)}}">{{game.homeTeamAbbr}}</a> vs <a href="{{url_for('single_team_page', abbr = game.awayTeamAbbr)}}">{{game.awayTeamAbbr}}</a></td>
+              <td> {{game.homeTeamScore}} - {{game.awayTeamScore}} </td>
+              <td> {% if game.postseason %}
+                Postseason
+                {% else %}
+                Regular Season
+            {% endif %} </td>
+            </tr>
+            </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    
+{% endblock %}

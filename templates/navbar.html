@@ -1,0 +1,27 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="{{url_for('index')}}">NBAnalytics</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-button nav-link" href="/players/1">Players<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-button nav-link" href="/teams">Teams</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-button nav-link" href="/games/">Games</a>
+      </li>
+      <li class ="nav-item active">
+        <a class="nav-button nav-link" href="/about">About</a>
+      </li>
+    </ul>
+    <form class="form-inline my-2 my-lg-0" action="{{url_for('search')}}" method="POST">
+      <input id = 'searchInput' class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" name="term">
+      <button class="btn btn-outline-primary" type="submit">Search</button>
+    </form>
+  </div>
+</nav>

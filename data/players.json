@@ -1,0 +1,4892 @@
+[
+    {
+        "firstName": "Steven",
+        "lastName": "Adams",
+        "playerId": 203500,
+        "teamId": 1610612760,
+        "height": "6-11",
+        "weight": "265 lbs",
+        "age": "26",
+        "dob": "07/20/1993"
+    },
+    {
+        "firstName": "Bam",
+        "lastName": "Adebayo",
+        "playerId": 1628389,
+        "teamId": 1610612748,
+        "height": "6-9",
+        "weight": "255 lbs",
+        "age": "22",
+        "dob": "07/18/1997"
+    },
+    {
+        "firstName": "LaMarcus",
+        "lastName": "Aldridge",
+        "playerId": 200746,
+        "teamId": 1610612759,
+        "height": "6-11",
+        "weight": "250 lbs",
+        "age": "34",
+        "dob": "07/19/1985"
+    },
+    {
+        "firstName": "Nickeil",
+        "lastName": "Alexander-Walker",
+        "playerId": 1629638,
+        "teamId": 1610612740,
+        "height": "6-5",
+        "weight": "205 lbs",
+        "age": "21",
+        "dob": "09/02/1998"
+    },
+    {
+        "firstName": "Grayson",
+        "lastName": "Allen",
+        "playerId": 1628960,
+        "teamId": 1610612763,
+        "height": "6-4",
+        "weight": "198 lbs",
+        "age": "24",
+        "dob": "10/08/1995"
+    },
+    {
+        "firstName": "Jarrett",
+        "lastName": "Allen",
+        "playerId": 1628386,
+        "teamId": 1610612751,
+        "height": "6-11",
+        "weight": "243 lbs",
+        "age": "21",
+        "dob": "04/21/1998"
+    },
+    {
+        "firstName": "Kadeem",
+        "lastName": "Allen",
+        "playerId": 1628443,
+        "teamId": 1610612752,
+        "height": "6-1",
+        "weight": "200 lbs",
+        "age": "27",
+        "dob": "01/15/1993"
+    },
+    {
+        "firstName": "Al-Farouq",
+        "lastName": "Aminu",
+        "playerId": 202329,
+        "teamId": 1610612753,
+        "height": "6-8",
+        "weight": "220 lbs",
+        "age": "29",
+        "dob": "09/21/1990"
+    },
+    {
+        "firstName": "Kyle",
+        "lastName": "Anderson",
+        "playerId": 203937,
+        "teamId": 1610612763,
+        "height": "6-9",
+        "weight": "230 lbs",
+        "age": "26",
+        "dob": "09/20/1993"
+    },
+    {
+        "firstName": "Giannis",
+        "lastName": "Antetokounmpo",
+        "playerId": 203507,
+        "teamId": 1610612749,
+        "height": "6-11",
+        "weight": "242 lbs",
+        "age": "25",
+        "dob": "12/06/1994"
+    },
+    {
+        "firstName": "Kostas",
+        "lastName": "Antetokounmpo",
+        "playerId": 1628961,
+        "teamId": 1610612747,
+        "height": "6-10",
+        "weight": "200 lbs",
+        "age": "22",
+        "dob": "11/20/1997"
+    },
+    {
+        "firstName": "Thanasis",
+        "lastName": "Antetokounmpo",
+        "playerId": 203648,
+        "teamId": 1610612749,
+        "height": "6-6",
+        "weight": "219 lbs",
+        "age": "27",
+        "dob": "07/18/1992"
+    },
+    {
+        "firstName": "Carmelo",
+        "lastName": "Anthony",
+        "playerId": 2546,
+        "teamId": 1610612757,
+        "height": "6-8",
+        "weight": "238 lbs",
+        "age": "35",
+        "dob": "05/29/1984"
+    },
+    {
+        "firstName": "OG",
+        "lastName": "Anunoby",
+        "playerId": 1628384,
+        "teamId": 1610612761,
+        "height": "6-7",
+        "weight": "232 lbs",
+        "age": "22",
+        "dob": "07/17/1997"
+    },
+    {
+        "firstName": "Ryan",
+        "lastName": "Arcidiacono",
+        "playerId": 1627853,
+        "teamId": 1610612741,
+        "height": "6-3",
+        "weight": "195 lbs",
+        "age": "25",
+        "dob": "03/26/1994"
+    },
+    {
+        "firstName": "Trevor",
+        "lastName": "Ariza",
+        "playerId": 2772,
+        "teamId": 1610612758,
+        "height": "6-8",
+        "weight": "215 lbs",
+        "age": "34",
+        "dob": "06/30/1985"
+    },
+    {
+        "firstName": "D.J.",
+        "lastName": "Augustin",
+        "playerId": 201571,
+        "teamId": 1610612753,
+        "height": "5-11",
+        "weight": "183 lbs",
+        "age": "32",
+        "dob": "11/10/1987"
+    },
+    {
+        "firstName": "Deandre",
+        "lastName": "Ayton",
+        "playerId": 1629028,
+        "teamId": 1610612756,
+        "height": "6-11",
+        "weight": "250 lbs",
+        "age": "21",
+        "dob": "07/23/1998"
+    },
+    {
+        "firstName": "Dwayne",
+        "lastName": "Bacon",
+        "playerId": 1628407,
+        "teamId": 1610612766,
+        "height": "6-6",
+        "weight": "221 lbs",
+        "age": "24",
+        "dob": "08/30/1995"
+    },
+    {
+        "firstName": "Marvin",
+        "lastName": "Bagley III",
+        "playerId": 1628963,
+        "teamId": 1610612758,
+        "height": "6-11",
+        "weight": "235 lbs",
+        "age": "20",
+        "dob": "03/14/1999"
+    },
+    {
+        "firstName": "Lonzo",
+        "lastName": "Ball",
+        "playerId": 1628366,
+        "teamId": 1610612740,
+        "height": "6-6",
+        "weight": "190 lbs",
+        "age": "22",
+        "dob": "10/27/1997"
+    },
+    {
+        "firstName": "Mo",
+        "lastName": "Bamba",
+        "playerId": 1628964,
+        "teamId": 1610612753,
+        "height": "7-0",
+        "weight": "231 lbs",
+        "age": "21",
+        "dob": "05/12/1998"
+    },
+    {
+        "firstName": "J.J.",
+        "lastName": "Barea",
+        "playerId": 200826,
+        "teamId": 1610612742,
+        "height": "5-10",
+        "weight": "180 lbs",
+        "age": "35",
+        "dob": "06/26/1984"
+    },
+    {
+        "firstName": "Harrison",
+        "lastName": "Barnes",
+        "playerId": 203084,
+        "teamId": 1610612758,
+        "height": "6-8",
+        "weight": "225 lbs",
+        "age": "27",
+        "dob": "05/30/1992"
+    },
+    {
+        "firstName": "RJ",
+        "lastName": "Barrett",
+        "playerId": 1629628,
+        "teamId": 1610612752,
+        "height": "6-6",
+        "weight": "214 lbs",
+        "age": "19",
+        "dob": "06/14/2000"
+    },
+    {
+        "firstName": "Will",
+        "lastName": "Barton",
+        "playerId": 203115,
+        "teamId": 1610612743,
+        "height": "6-5",
+        "weight": "181 lbs",
+        "age": "29",
+        "dob": "01/06/1991"
+    },
+    {
+        "firstName": "Keita",
+        "lastName": "Bates-Diop",
+        "playerId": 1628966,
+        "teamId": 1610612750,
+        "height": "6-8",
+        "weight": "229 lbs",
+        "age": "24",
+        "dob": "01/23/1996"
+    },
+    {
+        "firstName": "Nicolas",
+        "lastName": "Batum",
+        "playerId": 201587,
+        "teamId": 1610612766,
+        "height": "6-9",
+        "weight": "230 lbs",
+        "age": "31",
+        "dob": "12/14/1988"
+    },
+    {
+        "firstName": "Aron",
+        "lastName": "Baynes",
+        "playerId": 203382,
+        "teamId": 1610612756,
+        "height": "6-10",
+        "weight": "260 lbs",
+        "age": "33",
+        "dob": "12/09/1986"
+    },
+    {
+        "firstName": "Kent",
+        "lastName": "Bazemore",
+        "playerId": 203145,
+        "teamId": 1610612757,
+        "height": "6-4",
+        "weight": "195 lbs",
+        "age": "30",
+        "dob": "07/01/1989"
+    },
+    {
+        "firstName": "Darius",
+        "lastName": "Bazley",
+        "playerId": 1629647,
+        "teamId": 1610612760,
+        "height": "6-8",
+        "weight": "208 lbs",
+        "age": "19",
+        "dob": "06/12/2000"
+    },
+    {
+        "firstName": "Bradley",
+        "lastName": "Beal",
+        "playerId": 203078,
+        "teamId": 1610612764,
+        "height": "6-3",
+        "weight": "207 lbs",
+        "age": "26",
+        "dob": "06/28/1993"
+    },
+    {
+        "firstName": "Malik",
+        "lastName": "Beasley",
+        "playerId": 1627736,
+        "teamId": 1610612743,
+        "height": "6-4",
+        "weight": "187 lbs",
+        "age": "23",
+        "dob": "11/26/1996"
+    },
+    {
+        "firstName": "Marco",
+        "lastName": "Belinelli",
+        "playerId": 201158,
+        "teamId": 1610612759,
+        "height": "6-5",
+        "weight": "220 lbs",
+        "age": "33",
+        "dob": "03/25/1986"
+    },
+    {
+        "firstName": "Jordan",
+        "lastName": "Bell",
+        "playerId": 1628395,
+        "teamId": 1610612750,
+        "height": "6-8",
+        "weight": "216 lbs",
+        "age": "25",
+        "dob": "01/07/1995"
+    },
+    {
+        "firstName": "DeAndre'",
+        "lastName": "Bembry",
+        "playerId": 1627761,
+        "teamId": 1610612737,
+        "height": "6-5",
+        "weight": "210 lbs",
+        "age": "25",
+        "dob": "07/04/1994"
+    },
+    {
+        "firstName": "Dragan",
+        "lastName": "Bender",
+        "playerId": 1627733,
+        "teamId": 1610612749,
+        "height": "",
+        "weight": " lbs",
+        "age": "22",
+        "dob": "11/17/1997"
+    },
+    {
+        "firstName": "Davis",
+        "lastName": "Bertans",
+        "playerId": 202722,
+        "teamId": 1610612764,
+        "height": "6-10",
+        "weight": "225 lbs",
+        "age": "27",
+        "dob": "11/12/1992"
+    },
+    {
+        "firstName": "Patrick",
+        "lastName": "Beverley",
+        "playerId": 201976,
+        "teamId": 1610612746,
+        "height": "6-1",
+        "weight": "180 lbs",
+        "age": "31",
+        "dob": "07/12/1988"
+    },
+    {
+        "firstName": "Khem",
+        "lastName": "Birch",
+        "playerId": 203920,
+        "teamId": 1610612753,
+        "height": "6-9",
+        "weight": "233 lbs",
+        "age": "27",
+        "dob": "09/28/1992"
+    },
+    {
+        "firstName": "Goga",
+        "lastName": "Bitadze",
+        "playerId": 1629048,
+        "teamId": 1610612754,
+        "height": "6-11",
+        "weight": "250 lbs",
+        "age": "20",
+        "dob": "07/20/1999"
+    },
+    {
+        "firstName": "Bismack",
+        "lastName": "Biyombo",
+        "playerId": 202687,
+        "teamId": 1610612766,
+        "height": "6-8",
+        "weight": "255 lbs",
+        "age": "27",
+        "dob": "08/28/1992"
+    },
+    {
+        "firstName": "Nemanja",
+        "lastName": "Bjelica",
+        "playerId": 202357,
+        "teamId": 1610612758,
+        "height": "6-10",
+        "weight": "234 lbs",
+        "age": "31",
+        "dob": "05/09/1988"
+    },
+    {
+        "firstName": "Eric",
+        "lastName": "Bledsoe",
+        "playerId": 202339,
+        "teamId": 1610612749,
+        "height": "6-1",
+        "weight": "214 lbs",
+        "age": "30",
+        "dob": "12/09/1989"
+    },
+    {
+        "firstName": "Bogdan",
+        "lastName": "Bogdanovic",
+        "playerId": 203992,
+        "teamId": 1610612758,
+        "height": "6-6",
+        "weight": "220 lbs",
+        "age": "27",
+        "dob": "08/18/1992"
+    },
+    {
+        "firstName": "Bojan",
+        "lastName": "Bogdanovic",
+        "playerId": 202711,
+        "teamId": 1610612762,
+        "height": "6-8",
+        "weight": "226 lbs",
+        "age": "30",
+        "dob": "04/18/1989"
+    },
+    {
+        "firstName": "Bol",
+        "lastName": "Bol",
+        "playerId": 1629626,
+        "teamId": 1610612743,
+        "height": "7-2",
+        "weight": "220 lbs",
+        "age": "20",
+        "dob": "11/16/1999"
+    },
+    {
+        "firstName": "Jonah",
+        "lastName": "Bolden",
+        "playerId": 1628413,
+        "teamId": 1610612755,
+        "height": "6-8",
+        "weight": "225 lbs",
+        "age": "24",
+        "dob": "01/02/1996"
+    },
+    {
+        "firstName": "Jordan",
+        "lastName": "Bone",
+        "playerId": 1629648,
+        "teamId": 1610612765,
+        "height": "6-3",
+        "weight": "180 lbs",
+        "age": "22",
+        "dob": "11/05/1997"
+    },
+    {
+        "firstName": "Isaac",
+        "lastName": "Bonga",
+        "playerId": 1629067,
+        "teamId": 1610612764,
+        "height": "6-8",
+        "weight": "180 lbs",
+        "age": "20",
+        "dob": "11/08/1999"
+    },
+    {
+        "firstName": "Devin",
+        "lastName": "Booker",
+        "playerId": 1626164,
+        "teamId": 1610612756,
+        "height": "6-5",
+        "weight": "206 lbs",
+        "age": "23",
+        "dob": "10/30/1996"
+    },
+    {
+        "firstName": "Chris",
+        "lastName": "Boucher",
+        "playerId": 1628449,
+        "teamId": 1610612761,
+        "height": "6-9",
+        "weight": "200 lbs",
+        "age": "27",
+        "dob": "01/11/1993"
+    },
+    {
+        "firstName": "Brian",
+        "lastName": "Bowen II",
+        "playerId": 1628968,
+        "teamId": 1610612754,
+        "height": "6-6",
+        "weight": "190 lbs",
+        "age": "21",
+        "dob": "10/02/1998"
+    },
+    {
+        "firstName": "Ky",
+        "lastName": "Bowman",
+        "playerId": 1629065,
+        "teamId": 1610612744,
+        "height": "6-1",
+        "weight": "187 lbs",
+        "age": "22",
+        "dob": "06/16/1997"
+    },
+    {
+        "firstName": "Avery",
+        "lastName": "Bradley",
+        "playerId": 202340,
+        "teamId": 1610612747,
+        "height": "6-3",
+        "weight": "180 lbs",
+        "age": "29",
+        "dob": "11/26/1990"
+    },
+    {
+        "firstName": "Tony",
+        "lastName": "Bradley",
+        "playerId": 1628396,
+        "teamId": 1610612762,
+        "height": "6-10",
+        "weight": "248 lbs",
+        "age": "22",
+        "dob": "01/08/1998"
+    },
+    {
+        "firstName": "Jarrell",
+        "lastName": "Brantley",
+        "playerId": 1629714,
+        "teamId": 1610612762,
+        "height": "6-5",
+        "weight": "250 lbs",
+        "age": "23",
+        "dob": "06/07/1996"
+    },
+    {
+        "firstName": "Ignas",
+        "lastName": "Brazdeikis",
+        "playerId": 1629649,
+        "teamId": 1610612752,
+        "height": "6-6",
+        "weight": "221 lbs",
+        "age": "21",
+        "dob": "01/08/1999"
+    },
+    {
+        "firstName": "Mikal",
+        "lastName": "Bridges",
+        "playerId": 1628969,
+        "teamId": 1610612756,
+        "height": "6-6",
+        "weight": "209 lbs",
+        "age": "23",
+        "dob": "08/30/1996"
+    },
+    {
+        "firstName": "Miles",
+        "lastName": "Bridges",
+        "playerId": 1628970,
+        "teamId": 1610612766,
+        "height": "6-6",
+        "weight": "225 lbs",
+        "age": "21",
+        "dob": "03/21/1998"
+    },
+    {
+        "firstName": "Oshae",
+        "lastName": "Brissett",
+        "playerId": 1629052,
+        "teamId": 1610612761,
+        "height": "6-7",
+        "weight": "210 lbs",
+        "age": "21",
+        "dob": "06/20/1998"
+    },
+    {
+        "firstName": "Ryan",
+        "lastName": "Broekhoff",
+        "playerId": 1629151,
+        "teamId": 1610612742,
+        "height": "",
+        "weight": " lbs",
+        "age": "29",
+        "dob": "08/23/1990"
+    },
+    {
+        "firstName": "Malcolm",
+        "lastName": "Brogdon",
+        "playerId": 1627763,
+        "teamId": 1610612754,
+        "height": "6-5",
+        "weight": "229 lbs",
+        "age": "27",
+        "dob": "12/11/1992"
+    },
+    {
+        "firstName": "Dillon",
+        "lastName": "Brooks",
+        "playerId": 1628415,
+        "teamId": 1610612763,
+        "height": "6-7",
+        "weight": "225 lbs",
+        "age": "24",
+        "dob": "01/22/1996"
+    },
+    {
+        "firstName": "Bruce",
+        "lastName": "Brown",
+        "playerId": 1628971,
+        "teamId": 1610612765,
+        "height": "6-4",
+        "weight": "202 lbs",
+        "age": "23",
+        "dob": "08/15/1996"
+    },
+    {
+        "firstName": "Jaylen",
+        "lastName": "Brown",
+        "playerId": 1627759,
+        "teamId": 1610612738,
+        "height": "6-6",
+        "weight": "223 lbs",
+        "age": "23",
+        "dob": "10/24/1996"
+    },
+    {
+        "firstName": "Moses",
+        "lastName": "Brown",
+        "playerId": 1629650,
+        "teamId": 1610612757,
+        "height": "7-2",
+        "weight": "245 lbs",
+        "age": "20",
+        "dob": "10/13/1999"
+    },
+    {
+        "firstName": "Sterling",
+        "lastName": "Brown",
+        "playerId": 1628425,
+        "teamId": 1610612749,
+        "height": "6-5",
+        "weight": "219 lbs",
+        "age": "25",
+        "dob": "02/10/1995"
+    },
+    {
+        "firstName": "Charles",
+        "lastName": "Brown Jr.",
+        "playerId": 1629718,
+        "teamId": 1610612737,
+        "height": "6-6",
+        "weight": "199 lbs",
+        "age": "23",
+        "dob": "02/02/1997"
+    },
+    {
+        "firstName": "Troy",
+        "lastName": "Brown Jr.",
+        "playerId": 1628972,
+        "teamId": 1610612764,
+        "height": "6-6",
+        "weight": "215 lbs",
+        "age": "20",
+        "dob": "07/28/1999"
+    },
+    {
+        "firstName": "Jalen",
+        "lastName": "Brunson",
+        "playerId": 1628973,
+        "teamId": 1610612742,
+        "height": "6-1",
+        "weight": "190 lbs",
+        "age": "23",
+        "dob": "08/31/1996"
+    },
+    {
+        "firstName": "Thomas",
+        "lastName": "Bryant",
+        "playerId": 1628418,
+        "teamId": 1610612764,
+        "height": "6-10",
+        "weight": "248 lbs",
+        "age": "22",
+        "dob": "07/31/1997"
+    },
+    {
+        "firstName": "Reggie",
+        "lastName": "Bullock",
+        "playerId": 203493,
+        "teamId": 1610612752,
+        "height": "6-6",
+        "weight": "205 lbs",
+        "age": "28",
+        "dob": "03/16/1991"
+    },
+    {
+        "firstName": "Trey",
+        "lastName": "Burke",
+        "playerId": 203504,
+        "teamId": 1610612755,
+        "height": "",
+        "weight": " lbs",
+        "age": "27",
+        "dob": "11/12/1992"
+    },
+    {
+        "firstName": "Alec",
+        "lastName": "Burks",
+        "playerId": 202692,
+        "teamId": 1610612744,
+        "height": "6-6",
+        "weight": "214 lbs",
+        "age": "28",
+        "dob": "07/20/1991"
+    },
+    {
+        "firstName": "Deonte",
+        "lastName": "Burton",
+        "playerId": 1629126,
+        "teamId": 1610612760,
+        "height": "6-4",
+        "weight": "240 lbs",
+        "age": "26",
+        "dob": "01/31/1994"
+    },
+    {
+        "firstName": "Jimmy",
+        "lastName": "Butler",
+        "playerId": 202710,
+        "teamId": 1610612748,
+        "height": "6-7",
+        "weight": "230 lbs",
+        "age": "30",
+        "dob": "09/14/1989"
+    },
+    {
+        "firstName": "Bruno",
+        "lastName": "Caboclo",
+        "playerId": 203998,
+        "teamId": 1610612763,
+        "height": "6-9",
+        "weight": "218 lbs",
+        "age": "24",
+        "dob": "09/21/1995"
+    },
+    {
+        "firstName": "Kentavious",
+        "lastName": "Caldwell-Pope",
+        "playerId": 203484,
+        "teamId": 1610612747,
+        "height": "6-5",
+        "weight": "204 lbs",
+        "age": "27",
+        "dob": "02/18/1993"
+    },
+    {
+        "firstName": "Vlatko",
+        "lastName": "Cancar",
+        "playerId": 1628427,
+        "teamId": 1610612743,
+        "height": "6-8",
+        "weight": "236 lbs",
+        "age": "22",
+        "dob": "04/10/1997"
+    },
+    {
+        "firstName": "Clint",
+        "lastName": "Capela",
+        "playerId": 203991,
+        "teamId": 1610612745,
+        "height": "6-10",
+        "weight": "240 lbs",
+        "age": "25",
+        "dob": "05/18/1994"
+    },
+    {
+        "firstName": "DeMarre",
+        "lastName": "Carroll",
+        "playerId": 201960,
+        "teamId": 1610612759,
+        "height": "",
+        "weight": " lbs",
+        "age": "33",
+        "dob": "07/27/1986"
+    },
+    {
+        "firstName": "Jevon",
+        "lastName": "Carter",
+        "playerId": 1628975,
+        "teamId": 1610612756,
+        "height": "6-1",
+        "weight": "200 lbs",
+        "age": "24",
+        "dob": "09/14/1995"
+    },
+    {
+        "firstName": "Vince",
+        "lastName": "Carter",
+        "playerId": 1713,
+        "teamId": 1610612737,
+        "height": "6-6",
+        "weight": "220 lbs",
+        "age": "43",
+        "dob": "01/26/1977"
+    },
+    {
+        "firstName": "Wendell",
+        "lastName": "Carter Jr.",
+        "playerId": 1628976,
+        "teamId": 1610612741,
+        "height": "6-9",
+        "weight": "270 lbs",
+        "age": "20",
+        "dob": "04/16/1999"
+    },
+    {
+        "firstName": "Michael",
+        "lastName": "Carter-Williams",
+        "playerId": 203487,
+        "teamId": 1610612753,
+        "height": "6-5",
+        "weight": "190 lbs",
+        "age": "28",
+        "dob": "10/10/1991"
+    },
+    {
+        "firstName": "Alex",
+        "lastName": "Caruso",
+        "playerId": 1627936,
+        "teamId": 1610612747,
+        "height": "6-5",
+        "weight": "186 lbs",
+        "age": "25",
+        "dob": "02/28/1994"
+    },
+    {
+        "firstName": "Willie",
+        "lastName": "Cauley-Stein",
+        "playerId": 1626161,
+        "teamId": 1610612744,
+        "height": "7-0",
+        "weight": "240 lbs",
+        "age": "26",
+        "dob": "08/18/1993"
+    },
+    {
+        "firstName": "Tyson",
+        "lastName": "Chandler",
+        "playerId": 2199,
+        "teamId": 1610612745,
+        "height": "7-0",
+        "weight": "235 lbs",
+        "age": "37",
+        "dob": "10/02/1982"
+    },
+    {
+        "firstName": "Wilson",
+        "lastName": "Chandler",
+        "playerId": 201163,
+        "teamId": 1610612751,
+        "height": "6-8",
+        "weight": "235 lbs",
+        "age": "32",
+        "dob": "05/10/1987"
+    },
+    {
+        "firstName": "Zylan",
+        "lastName": "Cheatham",
+        "playerId": 1629597,
+        "teamId": 1610612740,
+        "height": "6-5",
+        "weight": "220 lbs",
+        "age": "24",
+        "dob": "11/17/1995"
+    },
+    {
+        "firstName": "Chris",
+        "lastName": "Chiozza",
+        "playerId": 1629185,
+        "teamId": 1610612764,
+        "height": "5-11",
+        "weight": "175 lbs",
+        "age": "24",
+        "dob": "11/21/1995"
+    },
+    {
+        "firstName": "Marquese",
+        "lastName": "Chriss",
+        "playerId": 1627737,
+        "teamId": 1610612744,
+        "height": "6-9",
+        "weight": "240 lbs",
+        "age": "22",
+        "dob": "07/02/1997"
+    },
+    {
+        "firstName": "Gary",
+        "lastName": "Clark",
+        "playerId": 1629109,
+        "teamId": 1610612745,
+        "height": "6-6",
+        "weight": "225 lbs",
+        "age": "25",
+        "dob": "11/16/1994"
+    },
+    {
+        "firstName": "Brandon",
+        "lastName": "Clarke",
+        "playerId": 1629634,
+        "teamId": 1610612763,
+        "height": "6-8",
+        "weight": "215 lbs",
+        "age": "23",
+        "dob": "09/19/1996"
+    },
+    {
+        "firstName": "Jordan",
+        "lastName": "Clarkson",
+        "playerId": 203903,
+        "teamId": 1610612739,
+        "height": "6-4",
+        "weight": "194 lbs",
+        "age": "27",
+        "dob": "06/07/1992"
+    },
+    {
+        "firstName": "Nicolas",
+        "lastName": "Claxton",
+        "playerId": 1629651,
+        "teamId": 1610612751,
+        "height": "6-11",
+        "weight": "215 lbs",
+        "age": "20",
+        "dob": "04/17/1999"
+    },
+    {
+        "firstName": "Chris",
+        "lastName": "Clemons",
+        "playerId": 1629598,
+        "teamId": 1610612745,
+        "height": "5-9",
+        "weight": "180 lbs",
+        "age": "22",
+        "dob": "07/23/1997"
+    },
+    {
+        "firstName": "Antonius",
+        "lastName": "Cleveland",
+        "playerId": 1628499,
+        "teamId": 1610612742,
+        "height": "6-5",
+        "weight": "195 lbs",
+        "age": "26",
+        "dob": "02/02/1994"
+    },
+    {
+        "firstName": "Amir",
+        "lastName": "Coffey",
+        "playerId": 1629599,
+        "teamId": 1610612746,
+        "height": "6-7",
+        "weight": "210 lbs",
+        "age": "22",
+        "dob": "06/17/1997"
+    },
+    {
+        "firstName": "John",
+        "lastName": "Collins",
+        "playerId": 1628381,
+        "teamId": 1610612737,
+        "height": "6-9",
+        "weight": "235 lbs",
+        "age": "22",
+        "dob": "09/23/1997"
+    },
+    {
+        "firstName": "Zach",
+        "lastName": "Collins",
+        "playerId": 1628380,
+        "teamId": 1610612757,
+        "height": "6-11",
+        "weight": "250 lbs",
+        "age": "22",
+        "dob": "11/19/1997"
+    },
+    {
+        "firstName": "Mike",
+        "lastName": "Conley",
+        "playerId": 201144,
+        "teamId": 1610612762,
+        "height": "6-1",
+        "weight": "175 lbs",
+        "age": "32",
+        "dob": "10/11/1987"
+    },
+    {
+        "firstName": "Pat",
+        "lastName": "Connaughton",
+        "playerId": 1626192,
+        "teamId": 1610612749,
+        "height": "6-5",
+        "weight": "209 lbs",
+        "age": "27",
+        "dob": "01/06/1993"
+    },
+    {
+        "firstName": "Quinn",
+        "lastName": "Cook",
+        "playerId": 1626188,
+        "teamId": 1610612747,
+        "height": "6-1",
+        "weight": "180 lbs",
+        "age": "26",
+        "dob": "03/23/1993"
+    },
+    {
+        "firstName": "Tyler",
+        "lastName": "Cook",
+        "playerId": 1629076,
+        "teamId": 1610612739,
+        "height": "",
+        "weight": " lbs",
+        "age": "22",
+        "dob": "09/23/1997"
+    },
+    {
+        "firstName": "DeMarcus",
+        "lastName": "Cousins",
+        "playerId": 202326,
+        "teamId": 1610612747,
+        "height": "6-10",
+        "weight": "270 lbs",
+        "age": "29",
+        "dob": "08/13/1990"
+    },
+    {
+        "firstName": "Robert",
+        "lastName": "Covington",
+        "playerId": 203496,
+        "teamId": 1610612750,
+        "height": "6-7",
+        "weight": "209 lbs",
+        "age": "29",
+        "dob": "12/14/1990"
+    },
+    {
+        "firstName": "Allen",
+        "lastName": "Crabbe",
+        "playerId": 203459,
+        "teamId": 1610612737,
+        "height": "6-5",
+        "weight": "212 lbs",
+        "age": "27",
+        "dob": "04/09/1992"
+    },
+    {
+        "firstName": "Torrey",
+        "lastName": "Craig",
+        "playerId": 1628470,
+        "teamId": 1610612743,
+        "height": "6-7",
+        "weight": "221 lbs",
+        "age": "29",
+        "dob": "12/19/1990"
+    },
+    {
+        "firstName": "Jae",
+        "lastName": "Crowder",
+        "playerId": 203109,
+        "teamId": 1610612763,
+        "height": "6-6",
+        "weight": "235 lbs",
+        "age": "29",
+        "dob": "07/06/1990"
+    },
+    {
+        "firstName": "Jarrett",
+        "lastName": "Culver",
+        "playerId": 1629633,
+        "teamId": 1610612750,
+        "height": "6-6",
+        "weight": "195 lbs",
+        "age": "20",
+        "dob": "02/20/1999"
+    },
+    {
+        "firstName": "Seth",
+        "lastName": "Curry",
+        "playerId": 203552,
+        "teamId": 1610612742,
+        "height": "6-2",
+        "weight": "185 lbs",
+        "age": "29",
+        "dob": "08/23/1990"
+    },
+    {
+        "firstName": "Stephen",
+        "lastName": "Curry",
+        "playerId": 201939,
+        "teamId": 1610612744,
+        "height": "6-3",
+        "weight": "185 lbs",
+        "age": "31",
+        "dob": "03/14/1988"
+    },
+    {
+        "firstName": "Troy",
+        "lastName": "Daniels",
+        "playerId": 203584,
+        "teamId": 1610612747,
+        "height": "6-4",
+        "weight": "200 lbs",
+        "age": "28",
+        "dob": "07/15/1991"
+    },
+    {
+        "firstName": "Anthony",
+        "lastName": "Davis",
+        "playerId": 203076,
+        "teamId": 1610612747,
+        "height": "6-10",
+        "weight": "253 lbs",
+        "age": "26",
+        "dob": "03/11/1993"
+    },
+    {
+        "firstName": "Ed",
+        "lastName": "Davis",
+        "playerId": 202334,
+        "teamId": 1610612762,
+        "height": "6-9",
+        "weight": "218 lbs",
+        "age": "30",
+        "dob": "06/05/1989"
+    },
+    {
+        "firstName": "Terence",
+        "lastName": "Davis",
+        "playerId": 1629056,
+        "teamId": 1610612761,
+        "height": "6-4",
+        "weight": "201 lbs",
+        "age": "22",
+        "dob": "05/16/1997"
+    },
+    {
+        "firstName": "DeMar",
+        "lastName": "DeRozan",
+        "playerId": 201942,
+        "teamId": 1610612759,
+        "height": "6-6",
+        "weight": "220 lbs",
+        "age": "30",
+        "dob": "08/07/1989"
+    },
+    {
+        "firstName": "Dewayne",
+        "lastName": "Dedmon",
+        "playerId": 203473,
+        "teamId": 1610612758,
+        "height": "7-0",
+        "weight": "245 lbs",
+        "age": "30",
+        "dob": "08/12/1989"
+    },
+    {
+        "firstName": "Matthew",
+        "lastName": "Dellavedova",
+        "playerId": 203521,
+        "teamId": 1610612739,
+        "height": "6-3",
+        "weight": "200 lbs",
+        "age": "29",
+        "dob": "09/08/1990"
+    },
+    {
+        "firstName": "Donte",
+        "lastName": "DiVincenzo",
+        "playerId": 1628978,
+        "teamId": 1610612749,
+        "height": "6-4",
+        "weight": "203 lbs",
+        "age": "23",
+        "dob": "01/31/1997"
+    },
+    {
+        "firstName": "Cheick",
+        "lastName": "Diallo",
+        "playerId": 1627767,
+        "teamId": 1610612756,
+        "height": "6-8",
+        "weight": "219 lbs",
+        "age": "23",
+        "dob": "09/13/1996"
+    },
+    {
+        "firstName": "Hamidou",
+        "lastName": "Diallo",
+        "playerId": 1628977,
+        "teamId": 1610612760,
+        "height": "6-5",
+        "weight": "202 lbs",
+        "age": "21",
+        "dob": "07/31/1998"
+    },
+    {
+        "firstName": "Gorgui",
+        "lastName": "Dieng",
+        "playerId": 203476,
+        "teamId": 1610612750,
+        "height": "6-10",
+        "weight": "252 lbs",
+        "age": "30",
+        "dob": "01/18/1990"
+    },
+    {
+        "firstName": "Spencer",
+        "lastName": "Dinwiddie",
+        "playerId": 203915,
+        "teamId": 1610612751,
+        "height": "6-5",
+        "weight": "215 lbs",
+        "age": "26",
+        "dob": "04/06/1993"
+    },
+    {
+        "firstName": "Luka",
+        "lastName": "Doncic",
+        "playerId": 1629029,
+        "teamId": 1610612742,
+        "height": "6-7",
+        "weight": "230 lbs",
+        "age": "20",
+        "dob": "02/28/1999"
+    },
+    {
+        "firstName": "Luguentz",
+        "lastName": "Dort",
+        "playerId": 1629652,
+        "teamId": 1610612760,
+        "height": "6-3",
+        "weight": "215 lbs",
+        "age": "20",
+        "dob": "04/19/1999"
+    },
+    {
+        "firstName": "Damyean",
+        "lastName": "Dotson",
+        "playerId": 1628422,
+        "teamId": 1610612752,
+        "height": "6-5",
+        "weight": "210 lbs",
+        "age": "25",
+        "dob": "05/06/1994"
+    },
+    {
+        "firstName": "Sekou",
+        "lastName": "Doumbouya",
+        "playerId": 1629635,
+        "teamId": 1610612765,
+        "height": "6-8",
+        "weight": "230 lbs",
+        "age": "19",
+        "dob": "12/23/2000"
+    },
+    {
+        "firstName": "PJ",
+        "lastName": "Dozier",
+        "playerId": 1628408,
+        "teamId": 1610612743,
+        "height": "6-6",
+        "weight": "205 lbs",
+        "age": "23",
+        "dob": "10/25/1996"
+    },
+    {
+        "firstName": "Goran",
+        "lastName": "Dragic",
+        "playerId": 201609,
+        "teamId": 1610612748,
+        "height": "6-3",
+        "weight": "190 lbs",
+        "age": "33",
+        "dob": "05/06/1986"
+    },
+    {
+        "firstName": "Andre",
+        "lastName": "Drummond",
+        "playerId": 203083,
+        "teamId": 1610612765,
+        "height": "6-10",
+        "weight": "279 lbs",
+        "age": "26",
+        "dob": "08/10/1993"
+    },
+    {
+        "firstName": "Jared",
+        "lastName": "Dudley",
+        "playerId": 201162,
+        "teamId": 1610612747,
+        "height": "6-6",
+        "weight": "237 lbs",
+        "age": "34",
+        "dob": "07/10/1985"
+    },
+    {
+        "firstName": "Kris",
+        "lastName": "Dunn",
+        "playerId": 1627739,
+        "teamId": 1610612741,
+        "height": "6-3",
+        "weight": "205 lbs",
+        "age": "25",
+        "dob": "03/18/1994"
+    },
+    {
+        "firstName": "Kevin",
+        "lastName": "Durant",
+        "playerId": 201142,
+        "teamId": 1610612751,
+        "height": "6-10",
+        "weight": "240 lbs",
+        "age": "31",
+        "dob": "09/29/1988"
+    },
+    {
+        "firstName": "Carsen",
+        "lastName": "Edwards",
+        "playerId": 1629035,
+        "teamId": 1610612738,
+        "height": "5-11",
+        "weight": "200 lbs",
+        "age": "21",
+        "dob": "03/12/1998"
+    },
+    {
+        "firstName": "Henry",
+        "lastName": "Ellenson",
+        "playerId": 1627740,
+        "teamId": 1610612751,
+        "height": "",
+        "weight": " lbs",
+        "age": "23",
+        "dob": "01/13/1997"
+    },
+    {
+        "firstName": "Wayne",
+        "lastName": "Ellington",
+        "playerId": 201961,
+        "teamId": 1610612752,
+        "height": "6-4",
+        "weight": "207 lbs",
+        "age": "32",
+        "dob": "11/29/1987"
+    },
+    {
+        "firstName": "Joel",
+        "lastName": "Embiid",
+        "playerId": 203954,
+        "teamId": 1610612755,
+        "height": "7-0",
+        "weight": "280 lbs",
+        "age": "25",
+        "dob": "03/16/1994"
+    },
+    {
+        "firstName": "James",
+        "lastName": "Ennis III",
+        "playerId": 203516,
+        "teamId": 1610612755,
+        "height": "6-6",
+        "weight": "215 lbs",
+        "age": "29",
+        "dob": "07/01/1990"
+    },
+    {
+        "firstName": "Drew",
+        "lastName": "Eubanks",
+        "playerId": 1629234,
+        "teamId": 1610612759,
+        "height": "6-9",
+        "weight": "245 lbs",
+        "age": "23",
+        "dob": "02/01/1997"
+    },
+    {
+        "firstName": "Jacob",
+        "lastName": "Evans",
+        "playerId": 1628980,
+        "teamId": 1610612744,
+        "height": "6-4",
+        "weight": "210 lbs",
+        "age": "22",
+        "dob": "06/18/1997"
+    },
+    {
+        "firstName": "Dante",
+        "lastName": "Exum",
+        "playerId": 203957,
+        "teamId": 1610612762,
+        "height": "6-5",
+        "weight": "214 lbs",
+        "age": "24",
+        "dob": "07/13/1995"
+    },
+    {
+        "firstName": "Tacko",
+        "lastName": "Fall",
+        "playerId": 1629605,
+        "teamId": 1610612738,
+        "height": "7-5",
+        "weight": "311 lbs",
+        "age": "24",
+        "dob": "12/10/1995"
+    },
+    {
+        "firstName": "Derrick",
+        "lastName": "Favors",
+        "playerId": 202324,
+        "teamId": 1610612740,
+        "height": "6-9",
+        "weight": "265 lbs",
+        "age": "28",
+        "dob": "07/15/1991"
+    },
+    {
+        "firstName": "Cristiano",
+        "lastName": "Felicio",
+        "playerId": 1626245,
+        "teamId": 1610612741,
+        "height": "6-10",
+        "weight": "270 lbs",
+        "age": "27",
+        "dob": "07/07/1992"
+    },
+    {
+        "firstName": "Terrance",
+        "lastName": "Ferguson",
+        "playerId": 1628390,
+        "teamId": 1610612760,
+        "height": "6-6",
+        "weight": "190 lbs",
+        "age": "21",
+        "dob": "05/17/1998"
+    },
+    {
+        "firstName": "Bruno",
+        "lastName": "Fernando",
+        "playerId": 1628981,
+        "teamId": 1610612737,
+        "height": "6-9",
+        "weight": "240 lbs",
+        "age": "21",
+        "dob": "08/15/1998"
+    },
+    {
+        "firstName": "Yogi",
+        "lastName": "Ferrell",
+        "playerId": 1627812,
+        "teamId": 1610612758,
+        "height": "6-0",
+        "weight": "178 lbs",
+        "age": "26",
+        "dob": "05/09/1993"
+    },
+    {
+        "firstName": "Dorian",
+        "lastName": "Finney-Smith",
+        "playerId": 1627827,
+        "teamId": 1610612742,
+        "height": "6-7",
+        "weight": "220 lbs",
+        "age": "26",
+        "dob": "05/04/1993"
+    },
+    {
+        "firstName": "Bryn",
+        "lastName": "Forbes",
+        "playerId": 1627854,
+        "teamId": 1610612759,
+        "height": "6-2",
+        "weight": "205 lbs",
+        "age": "26",
+        "dob": "07/23/1993"
+    },
+    {
+        "firstName": "Evan",
+        "lastName": "Fournier",
+        "playerId": 203095,
+        "teamId": 1610612753,
+        "height": "6-7",
+        "weight": "205 lbs",
+        "age": "27",
+        "dob": "10/29/1992"
+    },
+    {
+        "firstName": "De'Aaron",
+        "lastName": "Fox",
+        "playerId": 1628368,
+        "teamId": 1610612758,
+        "height": "6-3",
+        "weight": "185 lbs",
+        "age": "22",
+        "dob": "12/20/1997"
+    },
+    {
+        "firstName": "Robert",
+        "lastName": "Franks",
+        "playerId": 1629606,
+        "teamId": 1610612766,
+        "height": "",
+        "weight": " lbs",
+        "age": "23",
+        "dob": "12/18/1996"
+    },
+    {
+        "firstName": "Michael",
+        "lastName": "Frazier",
+        "playerId": 1626187,
+        "teamId": 1610612745,
+        "height": "6-3",
+        "weight": "200 lbs",
+        "age": "25",
+        "dob": "03/08/1994"
+    },
+    {
+        "firstName": "Tim",
+        "lastName": "Frazier",
+        "playerId": 204025,
+        "teamId": 1610612765,
+        "height": "",
+        "weight": " lbs",
+        "age": "29",
+        "dob": "11/01/1990"
+    },
+    {
+        "firstName": "Melvin",
+        "lastName": "Frazier Jr.",
+        "playerId": 1628982,
+        "teamId": 1610612753,
+        "height": "6-5",
+        "weight": "215 lbs",
+        "age": "23",
+        "dob": "08/30/1996"
+    },
+    {
+        "firstName": "Markelle",
+        "lastName": "Fultz",
+        "playerId": 1628365,
+        "teamId": 1610612753,
+        "height": "6-3",
+        "weight": "209 lbs",
+        "age": "21",
+        "dob": "05/29/1998"
+    },
+    {
+        "firstName": "Wenyen",
+        "lastName": "Gabriel",
+        "playerId": 1629117,
+        "teamId": 1610612758,
+        "height": "6-9",
+        "weight": "205 lbs",
+        "age": "22",
+        "dob": "03/26/1997"
+    },
+    {
+        "firstName": "Daniel",
+        "lastName": "Gafford",
+        "playerId": 1629655,
+        "teamId": 1610612741,
+        "height": "6-10",
+        "weight": "234 lbs",
+        "age": "21",
+        "dob": "10/01/1998"
+    },
+    {
+        "firstName": "Danilo",
+        "lastName": "Gallinari",
+        "playerId": 201568,
+        "teamId": 1610612760,
+        "height": "6-10",
+        "weight": "233 lbs",
+        "age": "31",
+        "dob": "08/08/1988"
+    },
+    {
+        "firstName": "Langston",
+        "lastName": "Galloway",
+        "playerId": 204038,
+        "teamId": 1610612765,
+        "height": "6-1",
+        "weight": "200 lbs",
+        "age": "28",
+        "dob": "12/09/1991"
+    },
+    {
+        "firstName": "Darius",
+        "lastName": "Garland",
+        "playerId": 1629636,
+        "teamId": 1610612739,
+        "height": "6-1",
+        "weight": "192 lbs",
+        "age": "20",
+        "dob": "01/26/2000"
+    },
+    {
+        "firstName": "Marc",
+        "lastName": "Gasol",
+        "playerId": 201188,
+        "teamId": 1610612761,
+        "height": "6-11",
+        "weight": "255 lbs",
+        "age": "35",
+        "dob": "01/29/1985"
+    },
+    {
+        "firstName": "Rudy",
+        "lastName": "Gay",
+        "playerId": 200752,
+        "teamId": 1610612759,
+        "height": "6-8",
+        "weight": "250 lbs",
+        "age": "33",
+        "dob": "08/17/1986"
+    },
+    {
+        "firstName": "Paul",
+        "lastName": "George",
+        "playerId": 202331,
+        "teamId": 1610612746,
+        "height": "6-8",
+        "weight": "220 lbs",
+        "age": "29",
+        "dob": "05/02/1990"
+    },
+    {
+        "firstName": "Taj",
+        "lastName": "Gibson",
+        "playerId": 201959,
+        "teamId": 1610612752,
+        "height": "6-9",
+        "weight": "232 lbs",
+        "age": "34",
+        "dob": "06/24/1985"
+    },
+    {
+        "firstName": "Harry",
+        "lastName": "Giles III",
+        "playerId": 1628385,
+        "teamId": 1610612758,
+        "height": "6-11",
+        "weight": "240 lbs",
+        "age": "21",
+        "dob": "04/22/1998"
+    },
+    {
+        "firstName": "Shai",
+        "lastName": "Gilgeous-Alexander",
+        "playerId": 1628983,
+        "teamId": 1610612760,
+        "height": "6-5",
+        "weight": "180 lbs",
+        "age": "21",
+        "dob": "07/12/1998"
+    },
+    {
+        "firstName": "Rudy",
+        "lastName": "Gobert",
+        "playerId": 203497,
+        "teamId": 1610612762,
+        "height": "7-1",
+        "weight": "258 lbs",
+        "age": "27",
+        "dob": "06/26/1992"
+    },
+    {
+        "firstName": "Brandon",
+        "lastName": "Goodwin",
+        "playerId": 1629164,
+        "teamId": 1610612737,
+        "height": "6-0",
+        "weight": "180 lbs",
+        "age": "24",
+        "dob": "10/02/1995"
+    },
+    {
+        "firstName": "Aaron",
+        "lastName": "Gordon",
+        "playerId": 203932,
+        "teamId": 1610612753,
+        "height": "6-8",
+        "weight": "235 lbs",
+        "age": "24",
+        "dob": "09/16/1995"
+    },
+    {
+        "firstName": "Eric",
+        "lastName": "Gordon",
+        "playerId": 201569,
+        "teamId": 1610612745,
+        "height": "6-3",
+        "weight": "215 lbs",
+        "age": "31",
+        "dob": "12/25/1988"
+    },
+    {
+        "firstName": "Devonte'",
+        "lastName": "Graham",
+        "playerId": 1628984,
+        "teamId": 1610612766,
+        "height": "6-1",
+        "weight": "195 lbs",
+        "age": "24",
+        "dob": "02/22/1995"
+    },
+    {
+        "firstName": "Treveon",
+        "lastName": "Graham",
+        "playerId": 1626203,
+        "teamId": 1610612750,
+        "height": "6-5",
+        "weight": "219 lbs",
+        "age": "26",
+        "dob": "10/28/1993"
+    },
+    {
+        "firstName": "Jerami",
+        "lastName": "Grant",
+        "playerId": 203924,
+        "teamId": 1610612743,
+        "height": "6-8",
+        "weight": "210 lbs",
+        "age": "25",
+        "dob": "03/12/1994"
+    },
+    {
+        "firstName": "Josh",
+        "lastName": "Gray",
+        "playerId": 1627982,
+        "teamId": 1610612740,
+        "height": "6-0",
+        "weight": "180 lbs",
+        "age": "26",
+        "dob": "09/09/1993"
+    },
+    {
+        "firstName": "Danny",
+        "lastName": "Green",
+        "playerId": 201980,
+        "teamId": 1610612747,
+        "height": "6-6",
+        "weight": "215 lbs",
+        "age": "32",
+        "dob": "06/22/1987"
+    },
+    {
+        "firstName": "Draymond",
+        "lastName": "Green",
+        "playerId": 203110,
+        "teamId": 1610612744,
+        "height": "6-6",
+        "weight": "230 lbs",
+        "age": "29",
+        "dob": "03/04/1990"
+    },
+    {
+        "firstName": "Gerald",
+        "lastName": "Green",
+        "playerId": 101123,
+        "teamId": 1610612745,
+        "height": "6-7",
+        "weight": "205 lbs",
+        "age": "34",
+        "dob": "01/26/1986"
+    },
+    {
+        "firstName": "JaMychal",
+        "lastName": "Green",
+        "playerId": 203210,
+        "teamId": 1610612746,
+        "height": "6-8",
+        "weight": "227 lbs",
+        "age": "29",
+        "dob": "06/21/1990"
+    },
+    {
+        "firstName": "Javonte",
+        "lastName": "Green",
+        "playerId": 1629750,
+        "teamId": 1610612738,
+        "height": "6-4",
+        "weight": "205 lbs",
+        "age": "26",
+        "dob": "07/23/1993"
+    },
+    {
+        "firstName": "Jeff",
+        "lastName": "Green",
+        "playerId": 201145,
+        "teamId": 1610612762,
+        "height": "6-8",
+        "weight": "235 lbs",
+        "age": "33",
+        "dob": "08/28/1986"
+    },
+    {
+        "firstName": "Blake",
+        "lastName": "Griffin",
+        "playerId": 201933,
+        "teamId": 1610612765,
+        "height": "6-9",
+        "weight": "250 lbs",
+        "age": "30",
+        "dob": "03/16/1989"
+    },
+    {
+        "firstName": "Marko",
+        "lastName": "Guduric",
+        "playerId": 1629741,
+        "teamId": 1610612763,
+        "height": "6-6",
+        "weight": "201 lbs",
+        "age": "24",
+        "dob": "03/08/1995"
+    },
+    {
+        "firstName": "Kyle",
+        "lastName": "Guy",
+        "playerId": 1629657,
+        "teamId": 1610612758,
+        "height": "6-1",
+        "weight": "167 lbs",
+        "age": "22",
+        "dob": "08/11/1997"
+    },
+    {
+        "firstName": "Rui",
+        "lastName": "Hachimura",
+        "playerId": 1629060,
+        "teamId": 1610612764,
+        "height": "6-8",
+        "weight": "230 lbs",
+        "age": "22",
+        "dob": "02/08/1998"
+    },
+    {
+        "firstName": "Devon",
+        "lastName": "Hall",
+        "playerId": 1628985,
+        "teamId": 1610612760,
+        "height": "",
+        "weight": " lbs",
+        "age": "24",
+        "dob": "07/07/1995"
+    },
+    {
+        "firstName": "Tim",
+        "lastName": "Hardaway Jr.",
+        "playerId": 203501,
+        "teamId": 1610612742,
+        "height": "6-5",
+        "weight": "205 lbs",
+        "age": "27",
+        "dob": "03/16/1992"
+    },
+    {
+        "firstName": "James",
+        "lastName": "Harden",
+        "playerId": 201935,
+        "teamId": 1610612745,
+        "height": "6-5",
+        "weight": "220 lbs",
+        "age": "30",
+        "dob": "08/26/1989"
+    },
+    {
+        "firstName": "Maurice",
+        "lastName": "Harkless",
+        "playerId": 203090,
+        "teamId": 1610612746,
+        "height": "6-7",
+        "weight": "220 lbs",
+        "age": "26",
+        "dob": "05/11/1993"
+    },
+    {
+        "firstName": "Jared",
+        "lastName": "Harper",
+        "playerId": 1629607,
+        "teamId": 1610612756,
+        "height": "5-11",
+        "weight": "175 lbs",
+        "age": "22",
+        "dob": "09/14/1997"
+    },
+    {
+        "firstName": "Montrezl",
+        "lastName": "Harrell",
+        "playerId": 1626149,
+        "teamId": 1610612746,
+        "height": "6-7",
+        "weight": "240 lbs",
+        "age": "26",
+        "dob": "01/26/1994"
+    },
+    {
+        "firstName": "Gary",
+        "lastName": "Harris",
+        "playerId": 203914,
+        "teamId": 1610612743,
+        "height": "6-4",
+        "weight": "210 lbs",
+        "age": "25",
+        "dob": "09/14/1994"
+    },
+    {
+        "firstName": "Joe",
+        "lastName": "Harris",
+        "playerId": 203925,
+        "teamId": 1610612751,
+        "height": "6-6",
+        "weight": "220 lbs",
+        "age": "28",
+        "dob": "09/06/1991"
+    },
+    {
+        "firstName": "Tobias",
+        "lastName": "Harris",
+        "playerId": 202699,
+        "teamId": 1610612755,
+        "height": "6-8",
+        "weight": "226 lbs",
+        "age": "27",
+        "dob": "07/15/1992"
+    },
+    {
+        "firstName": "Shaquille",
+        "lastName": "Harrison",
+        "playerId": 1627885,
+        "teamId": 1610612741,
+        "height": "6-7",
+        "weight": "190 lbs",
+        "age": "26",
+        "dob": "10/06/1993"
+    },
+    {
+        "firstName": "Josh",
+        "lastName": "Hart",
+        "playerId": 1628404,
+        "teamId": 1610612740,
+        "height": "6-5",
+        "weight": "215 lbs",
+        "age": "24",
+        "dob": "03/06/1995"
+    },
+    {
+        "firstName": "Isaiah",
+        "lastName": "Hartenstein",
+        "playerId": 1628392,
+        "teamId": 1610612745,
+        "height": "7-0",
+        "weight": "250 lbs",
+        "age": "21",
+        "dob": "05/05/1998"
+    },
+    {
+        "firstName": "Udonis",
+        "lastName": "Haslem",
+        "playerId": 2617,
+        "teamId": 1610612748,
+        "height": "6-8",
+        "weight": "235 lbs",
+        "age": "39",
+        "dob": "06/09/1980"
+    },
+    {
+        "firstName": "Jaxson",
+        "lastName": "Hayes",
+        "playerId": 1629637,
+        "teamId": 1610612740,
+        "height": "6-11",
+        "weight": "220 lbs",
+        "age": "19",
+        "dob": "05/23/2000"
+    },
+    {
+        "firstName": "Gordon",
+        "lastName": "Hayward",
+        "playerId": 202330,
+        "teamId": 1610612738,
+        "height": "6-7",
+        "weight": "225 lbs",
+        "age": "29",
+        "dob": "03/23/1990"
+    },
+    {
+        "firstName": "John",
+        "lastName": "Henson",
+        "playerId": 203089,
+        "teamId": 1610612739,
+        "height": "6-9",
+        "weight": "219 lbs",
+        "age": "29",
+        "dob": "12/28/1990"
+    },
+    {
+        "firstName": "Dewan",
+        "lastName": "Hernandez",
+        "playerId": 1629608,
+        "teamId": 1610612761,
+        "height": "6-10",
+        "weight": "235 lbs",
+        "age": "23",
+        "dob": "12/09/1996"
+    },
+    {
+        "firstName": "Juancho",
+        "lastName": "Hernangomez",
+        "playerId": 1627823,
+        "teamId": 1610612743,
+        "height": "6-9",
+        "weight": "214 lbs",
+        "age": "24",
+        "dob": "09/28/1995"
+    },
+    {
+        "firstName": "Willy",
+        "lastName": "Hernangomez",
+        "playerId": 1626195,
+        "teamId": 1610612766,
+        "height": "6-11",
+        "weight": "250 lbs",
+        "age": "25",
+        "dob": "05/27/1994"
+    },
+    {
+        "firstName": "Tyler",
+        "lastName": "Herro",
+        "playerId": 1629639,
+        "teamId": 1610612748,
+        "height": "6-5",
+        "weight": "195 lbs",
+        "age": "20",
+        "dob": "01/20/2000"
+    },
+    {
+        "firstName": "Mario",
+        "lastName": "Hezonja",
+        "playerId": 1626209,
+        "teamId": 1610612757,
+        "height": "6-8",
+        "weight": "220 lbs",
+        "age": "24",
+        "dob": "02/25/1995"
+    },
+    {
+        "firstName": "Buddy",
+        "lastName": "Hield",
+        "playerId": 1627741,
+        "teamId": 1610612758,
+        "height": "6-4",
+        "weight": "220 lbs",
+        "age": "27",
+        "dob": "12/17/1992"
+    },
+    {
+        "firstName": "George",
+        "lastName": "Hill",
+        "playerId": 201588,
+        "teamId": 1610612749,
+        "height": "6-3",
+        "weight": "188 lbs",
+        "age": "33",
+        "dob": "05/04/1986"
+    },
+    {
+        "firstName": "Solomon",
+        "lastName": "Hill",
+        "playerId": 203524,
+        "teamId": 1610612763,
+        "height": "6-6",
+        "weight": "226 lbs",
+        "age": "28",
+        "dob": "03/18/1991"
+    },
+    {
+        "firstName": "Jaylen",
+        "lastName": "Hoard",
+        "playerId": 1629658,
+        "teamId": 1610612757,
+        "height": "6-8",
+        "weight": "216 lbs",
+        "age": "20",
+        "dob": "03/30/1999"
+    },
+    {
+        "firstName": "Aaron",
+        "lastName": "Holiday",
+        "playerId": 1628988,
+        "teamId": 1610612754,
+        "height": "6-0",
+        "weight": "185 lbs",
+        "age": "23",
+        "dob": "09/30/1996"
+    },
+    {
+        "firstName": "Jrue",
+        "lastName": "Holiday",
+        "playerId": 201950,
+        "teamId": 1610612740,
+        "height": "6-3",
+        "weight": "205 lbs",
+        "age": "29",
+        "dob": "06/12/1990"
+    },
+    {
+        "firstName": "Justin",
+        "lastName": "Holiday",
+        "playerId": 203200,
+        "teamId": 1610612754,
+        "height": "6-6",
+        "weight": "180 lbs",
+        "age": "30",
+        "dob": "04/05/1989"
+    },
+    {
+        "firstName": "Rondae",
+        "lastName": "Hollis-Jefferson",
+        "playerId": 1626178,
+        "teamId": 1610612761,
+        "height": "6-6",
+        "weight": "217 lbs",
+        "age": "25",
+        "dob": "01/03/1995"
+    },
+    {
+        "firstName": "Richaun",
+        "lastName": "Holmes",
+        "playerId": 1626158,
+        "teamId": 1610612758,
+        "height": "6-10",
+        "weight": "235 lbs",
+        "age": "26",
+        "dob": "10/15/1993"
+    },
+    {
+        "firstName": "Rodney",
+        "lastName": "Hood",
+        "playerId": 203918,
+        "teamId": 1610612757,
+        "height": "6-8",
+        "weight": "208 lbs",
+        "age": "27",
+        "dob": "10/20/1992"
+    },
+    {
+        "firstName": "Al",
+        "lastName": "Horford",
+        "playerId": 201143,
+        "teamId": 1610612755,
+        "height": "6-9",
+        "weight": "240 lbs",
+        "age": "33",
+        "dob": "06/03/1986"
+    },
+    {
+        "firstName": "Talen",
+        "lastName": "Horton-Tucker",
+        "playerId": 1629659,
+        "teamId": 1610612747,
+        "height": "6-4",
+        "weight": "234 lbs",
+        "age": "19",
+        "dob": "11/25/2000"
+    },
+    {
+        "firstName": "Danuel",
+        "lastName": "House Jr.",
+        "playerId": 1627863,
+        "teamId": 1610612745,
+        "height": "6-6",
+        "weight": "220 lbs",
+        "age": "26",
+        "dob": "06/07/1993"
+    },
+    {
+        "firstName": "Dwight",
+        "lastName": "Howard",
+        "playerId": 2730,
+        "teamId": 1610612747,
+        "height": "6-10",
+        "weight": "265 lbs",
+        "age": "34",
+        "dob": "12/08/1985"
+    },
+    {
+        "firstName": "Kevin",
+        "lastName": "Huerter",
+        "playerId": 1628989,
+        "teamId": 1610612737,
+        "height": "6-7",
+        "weight": "190 lbs",
+        "age": "21",
+        "dob": "08/27/1998"
+    },
+    {
+        "firstName": "De'Andre",
+        "lastName": "Hunter",
+        "playerId": 1629631,
+        "teamId": 1610612737,
+        "height": "6-7",
+        "weight": "225 lbs",
+        "age": "22",
+        "dob": "12/02/1997"
+    },
+    {
+        "firstName": "Chandler",
+        "lastName": "Hutchison",
+        "playerId": 1628990,
+        "teamId": 1610612741,
+        "height": "6-7",
+        "weight": "210 lbs",
+        "age": "23",
+        "dob": "04/26/1996"
+    },
+    {
+        "firstName": "Serge",
+        "lastName": "Ibaka",
+        "playerId": 201586,
+        "teamId": 1610612761,
+        "height": "7-0",
+        "weight": "235 lbs",
+        "age": "30",
+        "dob": "09/18/1989"
+    },
+    {
+        "firstName": "Ersan",
+        "lastName": "Ilyasova",
+        "playerId": 101141,
+        "teamId": 1610612749,
+        "height": "6-9",
+        "weight": "235 lbs",
+        "age": "32",
+        "dob": "05/15/1987"
+    },
+    {
+        "firstName": "Joe",
+        "lastName": "Ingles",
+        "playerId": 204060,
+        "teamId": 1610612762,
+        "height": "6-7",
+        "weight": "220 lbs",
+        "age": "32",
+        "dob": "10/02/1987"
+    },
+    {
+        "firstName": "Brandon",
+        "lastName": "Ingram",
+        "playerId": 1627742,
+        "teamId": 1610612740,
+        "height": "6-7",
+        "weight": "190 lbs",
+        "age": "22",
+        "dob": "09/02/1997"
+    },
+    {
+        "firstName": "Kyrie",
+        "lastName": "Irving",
+        "playerId": 202681,
+        "teamId": 1610612751,
+        "height": "6-2",
+        "weight": "195 lbs",
+        "age": "27",
+        "dob": "03/23/1992"
+    },
+    {
+        "firstName": "Jonathan",
+        "lastName": "Isaac",
+        "playerId": 1628371,
+        "teamId": 1610612753,
+        "height": "6-11",
+        "weight": "230 lbs",
+        "age": "22",
+        "dob": "10/03/1997"
+    },
+    {
+        "firstName": "Wes",
+        "lastName": "Iwundu",
+        "playerId": 1628411,
+        "teamId": 1610612753,
+        "height": "6-6",
+        "weight": "195 lbs",
+        "age": "25",
+        "dob": "12/20/1994"
+    },
+    {
+        "firstName": "Frank",
+        "lastName": "Jackson",
+        "playerId": 1628402,
+        "teamId": 1610612740,
+        "height": "6-3",
+        "weight": "205 lbs",
+        "age": "21",
+        "dob": "05/04/1998"
+    },
+    {
+        "firstName": "Josh",
+        "lastName": "Jackson",
+        "playerId": 1628367,
+        "teamId": 1610612763,
+        "height": "6-8",
+        "weight": "207 lbs",
+        "age": "23",
+        "dob": "02/10/1997"
+    },
+    {
+        "firstName": "Justin",
+        "lastName": "Jackson",
+        "playerId": 1628382,
+        "teamId": 1610612742,
+        "height": "6-7",
+        "weight": "220 lbs",
+        "age": "24",
+        "dob": "03/28/1995"
+    },
+    {
+        "firstName": "Reggie",
+        "lastName": "Jackson",
+        "playerId": 202704,
+        "teamId": 1610612765,
+        "height": "",
+        "weight": " lbs",
+        "age": "29",
+        "dob": "04/16/1990"
+    },
+    {
+        "firstName": "Jaren",
+        "lastName": "Jackson Jr.",
+        "playerId": 1628991,
+        "teamId": 1610612763,
+        "height": "6-11",
+        "weight": "242 lbs",
+        "age": "20",
+        "dob": "09/15/1999"
+    },
+    {
+        "firstName": "Justin",
+        "lastName": "James",
+        "playerId": 1629713,
+        "teamId": 1610612758,
+        "height": "6-7",
+        "weight": "190 lbs",
+        "age": "23",
+        "dob": "01/24/1997"
+    },
+    {
+        "firstName": "LeBron",
+        "lastName": "James",
+        "playerId": 2544,
+        "teamId": 1610612747,
+        "height": "6-9",
+        "weight": "250 lbs",
+        "age": "35",
+        "dob": "12/30/1984"
+    },
+    {
+        "firstName": "Amile",
+        "lastName": "Jefferson",
+        "playerId": 1628518,
+        "teamId": 1610612753,
+        "height": "",
+        "weight": " lbs",
+        "age": "26",
+        "dob": "05/07/1993"
+    },
+    {
+        "firstName": "Ty",
+        "lastName": "Jerome",
+        "playerId": 1629660,
+        "teamId": 1610612756,
+        "height": "6-5",
+        "weight": "195 lbs",
+        "age": "22",
+        "dob": "07/08/1997"
+    },
+    {
+        "firstName": "Alize",
+        "lastName": "Johnson",
+        "playerId": 1628993,
+        "teamId": 1610612754,
+        "height": "6-7",
+        "weight": "212 lbs",
+        "age": "23",
+        "dob": "04/22/1996"
+    },
+    {
+        "firstName": "BJ",
+        "lastName": "Johnson",
+        "playerId": 1629168,
+        "teamId": 1610612753,
+        "height": "6-7",
+        "weight": "200 lbs",
+        "age": "24",
+        "dob": "12/21/1995"
+    },
+    {
+        "firstName": "Cameron",
+        "lastName": "Johnson",
+        "playerId": 1629661,
+        "teamId": 1610612756,
+        "height": "6-8",
+        "weight": "210 lbs",
+        "age": "23",
+        "dob": "03/03/1996"
+    },
+    {
+        "firstName": "James",
+        "lastName": "Johnson",
+        "playerId": 201949,
+        "teamId": 1610612748,
+        "height": "6-7",
+        "weight": "240 lbs",
+        "age": "32",
+        "dob": "02/20/1987"
+    },
+    {
+        "firstName": "Keldon",
+        "lastName": "Johnson",
+        "playerId": 1629640,
+        "teamId": 1610612759,
+        "height": "6-5",
+        "weight": "220 lbs",
+        "age": "20",
+        "dob": "10/11/1999"
+    },
+    {
+        "firstName": "Stanley",
+        "lastName": "Johnson",
+        "playerId": 1626169,
+        "teamId": 1610612761,
+        "height": "6-6",
+        "weight": "242 lbs",
+        "age": "23",
+        "dob": "05/29/1996"
+    },
+    {
+        "firstName": "Tyler",
+        "lastName": "Johnson",
+        "playerId": 204020,
+        "teamId": 1610612756,
+        "height": "",
+        "weight": " lbs",
+        "age": "27",
+        "dob": "05/07/1992"
+    },
+    {
+        "firstName": "Nikola",
+        "lastName": "Jokic",
+        "playerId": 203999,
+        "teamId": 1610612743,
+        "height": "7-0",
+        "weight": "284 lbs",
+        "age": "25",
+        "dob": "02/19/1995"
+    },
+    {
+        "firstName": "Damian",
+        "lastName": "Jones",
+        "playerId": 1627745,
+        "teamId": 1610612737,
+        "height": "6-11",
+        "weight": "245 lbs",
+        "age": "24",
+        "dob": "06/30/1995"
+    },
+    {
+        "firstName": "Tyus",
+        "lastName": "Jones",
+        "playerId": 1626145,
+        "teamId": 1610612763,
+        "height": "6-0",
+        "weight": "196 lbs",
+        "age": "23",
+        "dob": "05/10/1996"
+    },
+    {
+        "firstName": "Derrick",
+        "lastName": "Jones Jr.",
+        "playerId": 1627884,
+        "teamId": 1610612748,
+        "height": "6-6",
+        "weight": "210 lbs",
+        "age": "23",
+        "dob": "02/15/1997"
+    },
+    {
+        "firstName": "DeAndre",
+        "lastName": "Jordan",
+        "playerId": 201599,
+        "teamId": 1610612751,
+        "height": "6-11",
+        "weight": "265 lbs",
+        "age": "31",
+        "dob": "07/21/1988"
+    },
+    {
+        "firstName": "Cory",
+        "lastName": "Joseph",
+        "playerId": 202709,
+        "teamId": 1610612758,
+        "height": "6-3",
+        "weight": "200 lbs",
+        "age": "28",
+        "dob": "08/20/1991"
+    },
+    {
+        "firstName": "Mfiondu",
+        "lastName": "Kabengele",
+        "playerId": 1629662,
+        "teamId": 1610612746,
+        "height": "6-9",
+        "weight": "250 lbs",
+        "age": "22",
+        "dob": "08/14/1997"
+    },
+    {
+        "firstName": "Frank",
+        "lastName": "Kaminsky",
+        "playerId": 1626163,
+        "teamId": 1610612756,
+        "height": "7-0",
+        "weight": "240 lbs",
+        "age": "26",
+        "dob": "04/04/1993"
+    },
+    {
+        "firstName": "Enes",
+        "lastName": "Kanter",
+        "playerId": 202683,
+        "teamId": 1610612738,
+        "height": "6-10",
+        "weight": "250 lbs",
+        "age": "27",
+        "dob": "05/20/1992"
+    },
+    {
+        "firstName": "Luke",
+        "lastName": "Kennard",
+        "playerId": 1628379,
+        "teamId": 1610612765,
+        "height": "6-5",
+        "weight": "206 lbs",
+        "age": "23",
+        "dob": "06/24/1996"
+    },
+    {
+        "firstName": "Michael",
+        "lastName": "Kidd-Gilchrist",
+        "playerId": 203077,
+        "teamId": 1610612766,
+        "height": "6-6",
+        "weight": "232 lbs",
+        "age": "26",
+        "dob": "09/26/1993"
+    },
+    {
+        "firstName": "Louis",
+        "lastName": "King",
+        "playerId": 1629663,
+        "teamId": 1610612765,
+        "height": "6-7",
+        "weight": "205 lbs",
+        "age": "20",
+        "dob": "04/06/1999"
+    },
+    {
+        "firstName": "Maxi",
+        "lastName": "Kleber",
+        "playerId": 1628467,
+        "teamId": 1610612742,
+        "height": "6-10",
+        "weight": "240 lbs",
+        "age": "28",
+        "dob": "01/29/1992"
+    },
+    {
+        "firstName": "Brandon",
+        "lastName": "Knight",
+        "playerId": 202688,
+        "teamId": 1610612739,
+        "height": "6-2",
+        "weight": "182 lbs",
+        "age": "28",
+        "dob": "12/02/1991"
+    },
+    {
+        "firstName": "Kevin",
+        "lastName": "Knox II",
+        "playerId": 1628995,
+        "teamId": 1610612752,
+        "height": "6-7",
+        "weight": "215 lbs",
+        "age": "20",
+        "dob": "08/11/1999"
+    },
+    {
+        "firstName": "John",
+        "lastName": "Konchar",
+        "playerId": 1629723,
+        "teamId": 1610612763,
+        "height": "6-5",
+        "weight": "210 lbs",
+        "age": "23",
+        "dob": "03/22/1996"
+    },
+    {
+        "firstName": "Furkan",
+        "lastName": "Korkmaz",
+        "playerId": 1627788,
+        "teamId": 1610612755,
+        "height": "6-7",
+        "weight": "202 lbs",
+        "age": "22",
+        "dob": "07/24/1997"
+    },
+    {
+        "firstName": "Luke",
+        "lastName": "Kornet",
+        "playerId": 1628436,
+        "teamId": 1610612741,
+        "height": "7-2",
+        "weight": "250 lbs",
+        "age": "24",
+        "dob": "07/15/1995"
+    },
+    {
+        "firstName": "Kyle",
+        "lastName": "Korver",
+        "playerId": 2594,
+        "teamId": 1610612749,
+        "height": "6-7",
+        "weight": "212 lbs",
+        "age": "38",
+        "dob": "03/17/1981"
+    },
+    {
+        "firstName": "Rodions",
+        "lastName": "Kurucs",
+        "playerId": 1629066,
+        "teamId": 1610612751,
+        "height": "6-9",
+        "weight": "228 lbs",
+        "age": "22",
+        "dob": "02/05/1998"
+    },
+    {
+        "firstName": "Kyle",
+        "lastName": "Kuzma",
+        "playerId": 1628398,
+        "teamId": 1610612747,
+        "height": "6-8",
+        "weight": "221 lbs",
+        "age": "24",
+        "dob": "07/24/1995"
+    },
+    {
+        "firstName": "Zach",
+        "lastName": "LaVine",
+        "playerId": 203897,
+        "teamId": 1610612741,
+        "height": "6-6",
+        "weight": "200 lbs",
+        "age": "24",
+        "dob": "03/10/1995"
+    },
+    {
+        "firstName": "Skal",
+        "lastName": "Labissiere",
+        "playerId": 1627746,
+        "teamId": 1610612757,
+        "height": "6-10",
+        "weight": "235 lbs",
+        "age": "23",
+        "dob": "03/18/1996"
+    },
+    {
+        "firstName": "Jeremy",
+        "lastName": "Lamb",
+        "playerId": 203087,
+        "teamId": 1610612754,
+        "height": "6-5",
+        "weight": "180 lbs",
+        "age": "27",
+        "dob": "05/30/1992"
+    },
+    {
+        "firstName": "Romeo",
+        "lastName": "Langford",
+        "playerId": 1629641,
+        "teamId": 1610612738,
+        "height": "6-4",
+        "weight": "216 lbs",
+        "age": "20",
+        "dob": "10/25/1999"
+    },
+    {
+        "firstName": "Jake",
+        "lastName": "Layman",
+        "playerId": 1627774,
+        "teamId": 1610612750,
+        "height": "6-8",
+        "weight": "209 lbs",
+        "age": "25",
+        "dob": "03/07/1994"
+    },
+    {
+        "firstName": "Caris",
+        "lastName": "LeVert",
+        "playerId": 1627747,
+        "teamId": 1610612751,
+        "height": "6-6",
+        "weight": "205 lbs",
+        "age": "25",
+        "dob": "08/25/1994"
+    },
+    {
+        "firstName": "TJ",
+        "lastName": "Leaf",
+        "playerId": 1628388,
+        "teamId": 1610612754,
+        "height": "6-10",
+        "weight": "222 lbs",
+        "age": "22",
+        "dob": "04/30/1997"
+    },
+    {
+        "firstName": "Jalen",
+        "lastName": "Lecque",
+        "playerId": 1629665,
+        "teamId": 1610612756,
+        "height": "6-4",
+        "weight": "185 lbs",
+        "age": "19",
+        "dob": "06/13/2000"
+    },
+    {
+        "firstName": "Courtney",
+        "lastName": "Lee",
+        "playerId": 201584,
+        "teamId": 1610612742,
+        "height": "6-5",
+        "weight": "215 lbs",
+        "age": "34",
+        "dob": "10/03/1985"
+    },
+    {
+        "firstName": "Damion",
+        "lastName": "Lee",
+        "playerId": 1627814,
+        "teamId": 1610612744,
+        "height": "6-5",
+        "weight": "210 lbs",
+        "age": "27",
+        "dob": "10/21/1992"
+    },
+    {
+        "firstName": "Alex",
+        "lastName": "Len",
+        "playerId": 203458,
+        "teamId": 1610612737,
+        "height": "7-0",
+        "weight": "250 lbs",
+        "age": "26",
+        "dob": "06/16/1993"
+    },
+    {
+        "firstName": "Kawhi",
+        "lastName": "Leonard",
+        "playerId": 202695,
+        "teamId": 1610612746,
+        "height": "6-7",
+        "weight": "225 lbs",
+        "age": "28",
+        "dob": "06/29/1991"
+    },
+    {
+        "firstName": "Meyers",
+        "lastName": "Leonard",
+        "playerId": 203086,
+        "teamId": 1610612748,
+        "height": "7-0",
+        "weight": "260 lbs",
+        "age": "27",
+        "dob": "02/27/1992"
+    },
+    {
+        "firstName": "Damian",
+        "lastName": "Lillard",
+        "playerId": 203081,
+        "teamId": 1610612757,
+        "height": "6-2",
+        "weight": "195 lbs",
+        "age": "29",
+        "dob": "07/15/1990"
+    },
+    {
+        "firstName": "Nassir",
+        "lastName": "Little",
+        "playerId": 1629642,
+        "teamId": 1610612757,
+        "height": "6-5",
+        "weight": "220 lbs",
+        "age": "20",
+        "dob": "02/11/2000"
+    },
+    {
+        "firstName": "Kevon",
+        "lastName": "Looney",
+        "playerId": 1626172,
+        "teamId": 1610612744,
+        "height": "6-9",
+        "weight": "222 lbs",
+        "age": "24",
+        "dob": "02/06/1996"
+    },
+    {
+        "firstName": "Brook",
+        "lastName": "Lopez",
+        "playerId": 201572,
+        "teamId": 1610612749,
+        "height": "7-0",
+        "weight": "282 lbs",
+        "age": "31",
+        "dob": "04/01/1988"
+    },
+    {
+        "firstName": "Robin",
+        "lastName": "Lopez",
+        "playerId": 201577,
+        "teamId": 1610612749,
+        "height": "7-0",
+        "weight": "281 lbs",
+        "age": "31",
+        "dob": "04/01/1988"
+    },
+    {
+        "firstName": "Kevin",
+        "lastName": "Love",
+        "playerId": 201567,
+        "teamId": 1610612739,
+        "height": "6-8",
+        "weight": "251 lbs",
+        "age": "31",
+        "dob": "09/07/1988"
+    },
+    {
+        "firstName": "Kyle",
+        "lastName": "Lowry",
+        "playerId": 200768,
+        "teamId": 1610612761,
+        "height": "6-0",
+        "weight": "196 lbs",
+        "age": "33",
+        "dob": "03/25/1986"
+    },
+    {
+        "firstName": "Trey",
+        "lastName": "Lyles",
+        "playerId": 1626168,
+        "teamId": 1610612759,
+        "height": "6-9",
+        "weight": "234 lbs",
+        "age": "24",
+        "dob": "11/05/1995"
+    },
+    {
+        "firstName": "Daryl",
+        "lastName": "Macon",
+        "playerId": 1629133,
+        "teamId": 1610612748,
+        "height": "",
+        "weight": " lbs",
+        "age": "24",
+        "dob": "11/29/1995"
+    },
+    {
+        "firstName": "Josh",
+        "lastName": "Magette",
+        "playerId": 203705,
+        "teamId": 1610612753,
+        "height": "",
+        "weight": " lbs",
+        "age": "30",
+        "dob": "11/28/1989"
+    },
+    {
+        "firstName": "Ian",
+        "lastName": "Mahinmi",
+        "playerId": 101133,
+        "teamId": 1610612764,
+        "height": "6-11",
+        "weight": "262 lbs",
+        "age": "33",
+        "dob": "11/05/1986"
+    },
+    {
+        "firstName": "Thon",
+        "lastName": "Maker",
+        "playerId": 1627748,
+        "teamId": 1610612765,
+        "height": "7-0",
+        "weight": "221 lbs",
+        "age": "22",
+        "dob": "02/25/1997"
+    },
+    {
+        "firstName": "Terance",
+        "lastName": "Mann",
+        "playerId": 1629611,
+        "teamId": 1610612746,
+        "height": "6-5",
+        "weight": "215 lbs",
+        "age": "23",
+        "dob": "10/18/1996"
+    },
+    {
+        "firstName": "Boban",
+        "lastName": "Marjanovic",
+        "playerId": 1626246,
+        "teamId": 1610612742,
+        "height": "7-4",
+        "weight": "290 lbs",
+        "age": "31",
+        "dob": "08/15/1988"
+    },
+    {
+        "firstName": "Lauri",
+        "lastName": "Markkanen",
+        "playerId": 1628374,
+        "teamId": 1610612741,
+        "height": "7-0",
+        "weight": "240 lbs",
+        "age": "22",
+        "dob": "05/22/1997"
+    },
+    {
+        "firstName": "Caleb",
+        "lastName": "Martin",
+        "playerId": 1628997,
+        "teamId": 1610612766,
+        "height": "6-5",
+        "weight": "205 lbs",
+        "age": "24",
+        "dob": "09/28/1995"
+    },
+    {
+        "firstName": "Cody",
+        "lastName": "Martin",
+        "playerId": 1628998,
+        "teamId": 1610612766,
+        "height": "6-5",
+        "weight": "205 lbs",
+        "age": "24",
+        "dob": "09/28/1995"
+    },
+    {
+        "firstName": "Kelan",
+        "lastName": "Martin",
+        "playerId": 1629103,
+        "teamId": 1610612750,
+        "height": "6-5",
+        "weight": "230 lbs",
+        "age": "24",
+        "dob": "08/03/1995"
+    },
+    {
+        "firstName": "Frank",
+        "lastName": "Mason",
+        "playerId": 1628412,
+        "teamId": 1610612749,
+        "height": "5-11",
+        "weight": "190 lbs",
+        "age": "25",
+        "dob": "04/03/1994"
+    },
+    {
+        "firstName": "Garrison",
+        "lastName": "Mathews",
+        "playerId": 1629726,
+        "teamId": 1610612764,
+        "height": "6-5",
+        "weight": "215 lbs",
+        "age": "23",
+        "dob": "10/24/1996"
+    },
+    {
+        "firstName": "Wesley",
+        "lastName": "Matthews",
+        "playerId": 202083,
+        "teamId": 1610612749,
+        "height": "6-4",
+        "weight": "220 lbs",
+        "age": "33",
+        "dob": "10/14/1986"
+    },
+    {
+        "firstName": "Patrick",
+        "lastName": "McCaw",
+        "playerId": 1627775,
+        "teamId": 1610612761,
+        "height": "6-7",
+        "weight": "181 lbs",
+        "age": "24",
+        "dob": "10/25/1995"
+    },
+    {
+        "firstName": "CJ",
+        "lastName": "McCollum",
+        "playerId": 203468,
+        "teamId": 1610612757,
+        "height": "6-3",
+        "weight": "190 lbs",
+        "age": "28",
+        "dob": "09/19/1991"
+    },
+    {
+        "firstName": "T.J.",
+        "lastName": "McConnell",
+        "playerId": 204456,
+        "teamId": 1610612754,
+        "height": "6-1",
+        "weight": "190 lbs",
+        "age": "27",
+        "dob": "03/25/1992"
+    },
+    {
+        "firstName": "Doug",
+        "lastName": "McDermott",
+        "playerId": 203926,
+        "teamId": 1610612754,
+        "height": "6-7",
+        "weight": "225 lbs",
+        "age": "28",
+        "dob": "01/03/1992"
+    },
+    {
+        "firstName": "Rodney",
+        "lastName": "McGruder",
+        "playerId": 203585,
+        "teamId": 1610612746,
+        "height": "6-4",
+        "weight": "205 lbs",
+        "age": "28",
+        "dob": "07/29/1991"
+    },
+    {
+        "firstName": "Alfonzo",
+        "lastName": "McKinnie",
+        "playerId": 1628035,
+        "teamId": 1610612739,
+        "height": "6-7",
+        "weight": "215 lbs",
+        "age": "27",
+        "dob": "09/17/1992"
+    },
+    {
+        "firstName": "Jordan",
+        "lastName": "McLaughlin",
+        "playerId": 1629162,
+        "teamId": 1610612750,
+        "height": "5-11",
+        "weight": "185 lbs",
+        "age": "23",
+        "dob": "04/09/1996"
+    },
+    {
+        "firstName": "Ben",
+        "lastName": "McLemore",
+        "playerId": 203463,
+        "teamId": 1610612745,
+        "height": "6-3",
+        "weight": "195 lbs",
+        "age": "27",
+        "dob": "02/11/1993"
+    },
+    {
+        "firstName": "Jordan",
+        "lastName": "McRae",
+        "playerId": 203895,
+        "teamId": 1610612764,
+        "height": "6-5",
+        "weight": "179 lbs",
+        "age": "28",
+        "dob": "03/28/1991"
+    },
+    {
+        "firstName": "Nicolo",
+        "lastName": "Melli",
+        "playerId": 1629740,
+        "teamId": 1610612740,
+        "height": "6-9",
+        "weight": "236 lbs",
+        "age": "29",
+        "dob": "01/26/1991"
+    },
+    {
+        "firstName": "De'Anthony",
+        "lastName": "Melton",
+        "playerId": 1629001,
+        "teamId": 1610612763,
+        "height": "6-2",
+        "weight": "200 lbs",
+        "age": "21",
+        "dob": "05/28/1998"
+    },
+    {
+        "firstName": "Chimezie",
+        "lastName": "Metu",
+        "playerId": 1629002,
+        "teamId": 1610612759,
+        "height": "6-9",
+        "weight": "225 lbs",
+        "age": "22",
+        "dob": "03/22/1997"
+    },
+    {
+        "firstName": "Khris",
+        "lastName": "Middleton",
+        "playerId": 203114,
+        "teamId": 1610612749,
+        "height": "6-7",
+        "weight": "222 lbs",
+        "age": "28",
+        "dob": "08/12/1991"
+    },
+    {
+        "firstName": "CJ",
+        "lastName": "Miles",
+        "playerId": 101139,
+        "teamId": 1610612764,
+        "height": "",
+        "weight": " lbs",
+        "age": "32",
+        "dob": "03/18/1987"
+    },
+    {
+        "firstName": "Malcolm",
+        "lastName": "Miller",
+        "playerId": 1626259,
+        "teamId": 1610612761,
+        "height": "6-7",
+        "weight": "210 lbs",
+        "age": "26",
+        "dob": "03/06/1993"
+    },
+    {
+        "firstName": "Patty",
+        "lastName": "Mills",
+        "playerId": 201988,
+        "teamId": 1610612759,
+        "height": "6-1",
+        "weight": "180 lbs",
+        "age": "31",
+        "dob": "08/11/1988"
+    },
+    {
+        "firstName": "Paul",
+        "lastName": "Millsap",
+        "playerId": 200794,
+        "teamId": 1610612743,
+        "height": "6-7",
+        "weight": "257 lbs",
+        "age": "35",
+        "dob": "02/10/1985"
+    },
+    {
+        "firstName": "Shake",
+        "lastName": "Milton",
+        "playerId": 1629003,
+        "teamId": 1610612755,
+        "height": "6-5",
+        "weight": "205 lbs",
+        "age": "23",
+        "dob": "09/26/1996"
+    },
+    {
+        "firstName": "Donovan",
+        "lastName": "Mitchell",
+        "playerId": 1628378,
+        "teamId": 1610612762,
+        "height": "6-1",
+        "weight": "215 lbs",
+        "age": "23",
+        "dob": "09/07/1996"
+    },
+    {
+        "firstName": "Naz",
+        "lastName": "Mitrou-Long",
+        "playerId": 1628513,
+        "teamId": 1610612754,
+        "height": "6-3",
+        "weight": "218 lbs",
+        "age": "26",
+        "dob": "08/03/1993"
+    },
+    {
+        "firstName": "Adam",
+        "lastName": "Mokoka",
+        "playerId": 1629690,
+        "teamId": 1610612741,
+        "height": "6-5",
+        "weight": "190 lbs",
+        "age": "21",
+        "dob": "07/18/1998"
+    },
+    {
+        "firstName": "Malik",
+        "lastName": "Monk",
+        "playerId": 1628370,
+        "teamId": 1610612766,
+        "height": "6-3",
+        "weight": "200 lbs",
+        "age": "22",
+        "dob": "02/04/1998"
+    },
+    {
+        "firstName": "E'Twaun",
+        "lastName": "Moore",
+        "playerId": 202734,
+        "teamId": 1610612740,
+        "height": "6-3",
+        "weight": "191 lbs",
+        "age": "30",
+        "dob": "02/25/1989"
+    },
+    {
+        "firstName": "Ja",
+        "lastName": "Morant",
+        "playerId": 1629630,
+        "teamId": 1610612763,
+        "height": "6-3",
+        "weight": "174 lbs",
+        "age": "20",
+        "dob": "08/10/1999"
+    },
+    {
+        "firstName": "Juwan",
+        "lastName": "Morgan",
+        "playerId": 1629752,
+        "teamId": 1610612762,
+        "height": "6-7",
+        "weight": "232 lbs",
+        "age": "22",
+        "dob": "04/17/1997"
+    },
+    {
+        "firstName": "Markieff",
+        "lastName": "Morris",
+        "playerId": 202693,
+        "teamId": 1610612765,
+        "height": "6-8",
+        "weight": "245 lbs",
+        "age": "30",
+        "dob": "09/02/1989"
+    },
+    {
+        "firstName": "Monte",
+        "lastName": "Morris",
+        "playerId": 1628420,
+        "teamId": 1610612743,
+        "height": "6-2",
+        "weight": "183 lbs",
+        "age": "24",
+        "dob": "06/27/1995"
+    },
+    {
+        "firstName": "Marcus",
+        "lastName": "Morris Sr.",
+        "playerId": 202694,
+        "teamId": 1610612752,
+        "height": "6-8",
+        "weight": "218 lbs",
+        "age": "30",
+        "dob": "09/02/1989"
+    },
+    {
+        "firstName": "Johnathan",
+        "lastName": "Motley",
+        "playerId": 1628405,
+        "teamId": 1610612746,
+        "height": "6-8",
+        "weight": "230 lbs",
+        "age": "24",
+        "dob": "05/04/1995"
+    },
+    {
+        "firstName": "Emmanuel",
+        "lastName": "Mudiay",
+        "playerId": 1626144,
+        "teamId": 1610612762,
+        "height": "6-3",
+        "weight": "200 lbs",
+        "age": "23",
+        "dob": "03/05/1996"
+    },
+    {
+        "firstName": "Dejounte",
+        "lastName": "Murray",
+        "playerId": 1627749,
+        "teamId": 1610612759,
+        "height": "6-4",
+        "weight": "180 lbs",
+        "age": "23",
+        "dob": "09/19/1996"
+    },
+    {
+        "firstName": "Jamal",
+        "lastName": "Murray",
+        "playerId": 1627750,
+        "teamId": 1610612743,
+        "height": "6-4",
+        "weight": "215 lbs",
+        "age": "22",
+        "dob": "02/23/1997"
+    },
+    {
+        "firstName": "Dzanan",
+        "lastName": "Musa",
+        "playerId": 1629058,
+        "teamId": 1610612751,
+        "height": "6-9",
+        "weight": "217 lbs",
+        "age": "20",
+        "dob": "05/08/1999"
+    },
+    {
+        "firstName": "Mike",
+        "lastName": "Muscala",
+        "playerId": 203488,
+        "teamId": 1610612760,
+        "height": "6-10",
+        "weight": "240 lbs",
+        "age": "28",
+        "dob": "07/01/1991"
+    },
+    {
+        "firstName": "Svi",
+        "lastName": "Mykhailiuk",
+        "playerId": 1629004,
+        "teamId": 1610612765,
+        "height": "6-7",
+        "weight": "205 lbs",
+        "age": "22",
+        "dob": "06/10/1997"
+    },
+    {
+        "firstName": "Abdel",
+        "lastName": "Nader",
+        "playerId": 1627846,
+        "teamId": 1610612760,
+        "height": "6-5",
+        "weight": "225 lbs",
+        "age": "26",
+        "dob": "09/25/1993"
+    },
+    {
+        "firstName": "Larry",
+        "lastName": "Nance Jr.",
+        "playerId": 1626204,
+        "teamId": 1610612739,
+        "height": "6-7",
+        "weight": "245 lbs",
+        "age": "27",
+        "dob": "01/01/1993"
+    },
+    {
+        "firstName": "Shabazz",
+        "lastName": "Napier",
+        "playerId": 203894,
+        "teamId": 1610612750,
+        "height": "6-0",
+        "weight": "175 lbs",
+        "age": "28",
+        "dob": "07/14/1991"
+    },
+    {
+        "firstName": "Raul",
+        "lastName": "Neto",
+        "playerId": 203526,
+        "teamId": 1610612755,
+        "height": "6-1",
+        "weight": "180 lbs",
+        "age": "27",
+        "dob": "05/19/1992"
+    },
+    {
+        "firstName": "Georges",
+        "lastName": "Niang",
+        "playerId": 1627777,
+        "teamId": 1610612762,
+        "height": "6-7",
+        "weight": "230 lbs",
+        "age": "26",
+        "dob": "06/17/1993"
+    },
+    {
+        "firstName": "Nerlens",
+        "lastName": "Noel",
+        "playerId": 203457,
+        "teamId": 1610612760,
+        "height": "6-10",
+        "weight": "220 lbs",
+        "age": "25",
+        "dob": "04/10/1994"
+    },
+    {
+        "firstName": "Zach",
+        "lastName": "Norvell Jr.",
+        "playerId": 1629668,
+        "teamId": 1610612747,
+        "height": "",
+        "weight": " lbs",
+        "age": "22",
+        "dob": "12/09/1997"
+    },
+    {
+        "firstName": "Jaylen",
+        "lastName": "Nowell",
+        "playerId": 1629669,
+        "teamId": 1610612750,
+        "height": "6-4",
+        "weight": "201 lbs",
+        "age": "20",
+        "dob": "07/09/1999"
+    },
+    {
+        "firstName": "Frank",
+        "lastName": "Ntilikina",
+        "playerId": 1628373,
+        "teamId": 1610612752,
+        "height": "6-4",
+        "weight": "200 lbs",
+        "age": "21",
+        "dob": "07/28/1998"
+    },
+    {
+        "firstName": "Kendrick",
+        "lastName": "Nunn",
+        "playerId": 1629134,
+        "teamId": 1610612748,
+        "height": "6-2",
+        "weight": "190 lbs",
+        "age": "24",
+        "dob": "08/03/1995"
+    },
+    {
+        "firstName": "Jusuf",
+        "lastName": "Nurkic",
+        "playerId": 203994,
+        "teamId": 1610612757,
+        "height": "7-0",
+        "weight": "290 lbs",
+        "age": "25",
+        "dob": "08/23/1994"
+    },
+    {
+        "firstName": "David",
+        "lastName": "Nwaba",
+        "playerId": 1628021,
+        "teamId": 1610612751,
+        "height": "",
+        "weight": " lbs",
+        "age": "27",
+        "dob": "01/14/1993"
+    },
+    {
+        "firstName": "Royce",
+        "lastName": "O'Neale",
+        "playerId": 1626220,
+        "teamId": 1610612762,
+        "height": "6-4",
+        "weight": "226 lbs",
+        "age": "26",
+        "dob": "06/05/1993"
+    },
+    {
+        "firstName": "Kyle",
+        "lastName": "O'Quinn",
+        "playerId": 203124,
+        "teamId": 1610612755,
+        "height": "6-9",
+        "weight": "250 lbs",
+        "age": "29",
+        "dob": "03/26/1990"
+    },
+    {
+        "firstName": "Semi",
+        "lastName": "Ojeleye",
+        "playerId": 1628400,
+        "teamId": 1610612738,
+        "height": "6-6",
+        "weight": "240 lbs",
+        "age": "25",
+        "dob": "12/05/1994"
+    },
+    {
+        "firstName": "Jahlil",
+        "lastName": "Okafor",
+        "playerId": 1626143,
+        "teamId": 1610612740,
+        "height": "6-10",
+        "weight": "270 lbs",
+        "age": "24",
+        "dob": "12/15/1995"
+    },
+    {
+        "firstName": "Elie",
+        "lastName": "Okobo",
+        "playerId": 1629059,
+        "teamId": 1610612756,
+        "height": "6-3",
+        "weight": "190 lbs",
+        "age": "22",
+        "dob": "10/23/1997"
+    },
+    {
+        "firstName": "Josh",
+        "lastName": "Okogie",
+        "playerId": 1629006,
+        "teamId": 1610612750,
+        "height": "6-4",
+        "weight": "213 lbs",
+        "age": "21",
+        "dob": "09/01/1998"
+    },
+    {
+        "firstName": "KZ",
+        "lastName": "Okpala",
+        "playerId": 1629644,
+        "teamId": 1610612748,
+        "height": "6-8",
+        "weight": "215 lbs",
+        "age": "20",
+        "dob": "04/28/1999"
+    },
+    {
+        "firstName": "Victor",
+        "lastName": "Oladipo",
+        "playerId": 203506,
+        "teamId": 1610612754,
+        "height": "6-4",
+        "weight": "213 lbs",
+        "age": "27",
+        "dob": "05/04/1992"
+    },
+    {
+        "firstName": "Kelly",
+        "lastName": "Olynyk",
+        "playerId": 203482,
+        "teamId": 1610612748,
+        "height": "6-11",
+        "weight": "240 lbs",
+        "age": "28",
+        "dob": "04/19/1991"
+    },
+    {
+        "firstName": "Miye",
+        "lastName": "Oni",
+        "playerId": 1629671,
+        "teamId": 1610612762,
+        "height": "6-5",
+        "weight": "206 lbs",
+        "age": "22",
+        "dob": "08/04/1997"
+    },
+    {
+        "firstName": "Cedi",
+        "lastName": "Osman",
+        "playerId": 1626224,
+        "teamId": 1610612739,
+        "height": "6-7",
+        "weight": "230 lbs",
+        "age": "24",
+        "dob": "04/08/1995"
+    },
+    {
+        "firstName": "Kelly",
+        "lastName": "Oubre Jr.",
+        "playerId": 1626162,
+        "teamId": 1610612756,
+        "height": "6-7",
+        "weight": "203 lbs",
+        "age": "24",
+        "dob": "12/09/1995"
+    },
+    {
+        "firstName": "Jabari",
+        "lastName": "Parker",
+        "playerId": 203953,
+        "teamId": 1610612737,
+        "height": "6-8",
+        "weight": "245 lbs",
+        "age": "24",
+        "dob": "03/15/1995"
+    },
+    {
+        "firstName": "Chandler",
+        "lastName": "Parsons",
+        "playerId": 202718,
+        "teamId": 1610612737,
+        "height": "",
+        "weight": " lbs",
+        "age": "31",
+        "dob": "10/25/1988"
+    },
+    {
+        "firstName": "Eric",
+        "lastName": "Paschall",
+        "playerId": 1629672,
+        "teamId": 1610612744,
+        "height": "6-6",
+        "weight": "255 lbs",
+        "age": "23",
+        "dob": "11/04/1996"
+    },
+    {
+        "firstName": "Patrick",
+        "lastName": "Patterson",
+        "playerId": 202335,
+        "teamId": 1610612746,
+        "height": "6-8",
+        "weight": "235 lbs",
+        "age": "30",
+        "dob": "03/14/1989"
+    },
+    {
+        "firstName": "Justin",
+        "lastName": "Patton",
+        "playerId": 1628383,
+        "teamId": 1610612760,
+        "height": "",
+        "weight": " lbs",
+        "age": "22",
+        "dob": "06/14/1997"
+    },
+    {
+        "firstName": "Chris",
+        "lastName": "Paul",
+        "playerId": 101108,
+        "teamId": 1610612760,
+        "height": "6-1",
+        "weight": "175 lbs",
+        "age": "34",
+        "dob": "05/06/1985"
+    },
+    {
+        "firstName": "Elfrid",
+        "lastName": "Payton",
+        "playerId": 203901,
+        "teamId": 1610612752,
+        "height": "6-3",
+        "weight": "195 lbs",
+        "age": "25",
+        "dob": "02/22/1994"
+    },
+    {
+        "firstName": "Norvel",
+        "lastName": "Pelle",
+        "playerId": 203658,
+        "teamId": 1610612755,
+        "height": "6-10",
+        "weight": "231 lbs",
+        "age": "27",
+        "dob": "02/03/1993"
+    },
+    {
+        "firstName": "Theo",
+        "lastName": "Pinson",
+        "playerId": 1629033,
+        "teamId": 1610612751,
+        "height": "6-5",
+        "weight": "212 lbs",
+        "age": "24",
+        "dob": "11/05/1995"
+    },
+    {
+        "firstName": "Jakob",
+        "lastName": "Poeltl",
+        "playerId": 1627751,
+        "teamId": 1610612759,
+        "height": "7-1",
+        "weight": "245 lbs",
+        "age": "24",
+        "dob": "10/15/1995"
+    },
+    {
+        "firstName": "Vincent",
+        "lastName": "Poirier",
+        "playerId": 1629738,
+        "teamId": 1610612738,
+        "height": "7-0",
+        "weight": "235 lbs",
+        "age": "26",
+        "dob": "10/17/1993"
+    },
+    {
+        "firstName": "Jordan",
+        "lastName": "Poole",
+        "playerId": 1629673,
+        "teamId": 1610612744,
+        "height": "6-4",
+        "weight": "194 lbs",
+        "age": "20",
+        "dob": "06/19/1999"
+    },
+    {
+        "firstName": "Kevin",
+        "lastName": "Porter Jr.",
+        "playerId": 1629645,
+        "teamId": 1610612739,
+        "height": "6-4",
+        "weight": "203 lbs",
+        "age": "19",
+        "dob": "05/04/2000"
+    },
+    {
+        "firstName": "Michael",
+        "lastName": "Porter Jr.",
+        "playerId": 1629008,
+        "teamId": 1610612743,
+        "height": "6-10",
+        "weight": "218 lbs",
+        "age": "21",
+        "dob": "06/29/1998"
+    },
+    {
+        "firstName": "Otto",
+        "lastName": "Porter Jr.",
+        "playerId": 203490,
+        "teamId": 1610612741,
+        "height": "6-8",
+        "weight": "198 lbs",
+        "age": "26",
+        "dob": "06/03/1993"
+    },
+    {
+        "firstName": "Bobby",
+        "lastName": "Portis",
+        "playerId": 1626171,
+        "teamId": 1610612752,
+        "height": "6-10",
+        "weight": "250 lbs",
+        "age": "25",
+        "dob": "02/10/1995"
+    },
+    {
+        "firstName": "Kristaps",
+        "lastName": "Porzingis",
+        "playerId": 204001,
+        "teamId": 1610612742,
+        "height": "7-3",
+        "weight": "240 lbs",
+        "age": "24",
+        "dob": "08/02/1995"
+    },
+    {
+        "firstName": "Dwight",
+        "lastName": "Powell",
+        "playerId": 203939,
+        "teamId": 1610612742,
+        "height": "6-10",
+        "weight": "240 lbs",
+        "age": "28",
+        "dob": "07/20/1991"
+    },
+    {
+        "firstName": "Norman",
+        "lastName": "Powell",
+        "playerId": 1626181,
+        "teamId": 1610612761,
+        "height": "6-3",
+        "weight": "215 lbs",
+        "age": "26",
+        "dob": "05/25/1993"
+    },
+    {
+        "firstName": "Taurean",
+        "lastName": "Prince",
+        "playerId": 1627752,
+        "teamId": 1610612751,
+        "height": "6-7",
+        "weight": "218 lbs",
+        "age": "25",
+        "dob": "03/22/1994"
+    },
+    {
+        "firstName": "Julius",
+        "lastName": "Randle",
+        "playerId": 203944,
+        "teamId": 1610612752,
+        "height": "6-8",
+        "weight": "250 lbs",
+        "age": "25",
+        "dob": "11/29/1994"
+    },
+    {
+        "firstName": "Josh",
+        "lastName": "Reaves",
+        "playerId": 1629729,
+        "teamId": 1610612742,
+        "height": "6-4",
+        "weight": "214 lbs",
+        "age": "22",
+        "dob": "06/04/1997"
+    },
+    {
+        "firstName": "Cam",
+        "lastName": "Reddish",
+        "playerId": 1629629,
+        "teamId": 1610612737,
+        "height": "6-8",
+        "weight": "218 lbs",
+        "age": "20",
+        "dob": "09/01/1999"
+    },
+    {
+        "firstName": "JJ",
+        "lastName": "Redick",
+        "playerId": 200755,
+        "teamId": 1610612740,
+        "height": "6-3",
+        "weight": "200 lbs",
+        "age": "35",
+        "dob": "06/24/1984"
+    },
+    {
+        "firstName": "Naz",
+        "lastName": "Reid",
+        "playerId": 1629675,
+        "teamId": 1610612750,
+        "height": "6-9",
+        "weight": "264 lbs",
+        "age": "20",
+        "dob": "08/26/1999"
+    },
+    {
+        "firstName": "Cameron",
+        "lastName": "Reynolds",
+        "playerId": 1629244,
+        "teamId": 1610612749,
+        "height": "6-7",
+        "weight": "225 lbs",
+        "age": "25",
+        "dob": "02/07/1995"
+    },
+    {
+        "firstName": "Josh",
+        "lastName": "Richardson",
+        "playerId": 1626196,
+        "teamId": 1610612755,
+        "height": "6-5",
+        "weight": "200 lbs",
+        "age": "26",
+        "dob": "09/15/1993"
+    },
+    {
+        "firstName": "Austin",
+        "lastName": "Rivers",
+        "playerId": 203085,
+        "teamId": 1610612745,
+        "height": "6-3",
+        "weight": "200 lbs",
+        "age": "27",
+        "dob": "08/01/1992"
+    },
+    {
+        "firstName": "Andre",
+        "lastName": "Roberson",
+        "playerId": 203460,
+        "teamId": 1610612760,
+        "height": "6-7",
+        "weight": "210 lbs",
+        "age": "28",
+        "dob": "12/04/1991"
+    },
+    {
+        "firstName": "Duncan",
+        "lastName": "Robinson",
+        "playerId": 1629130,
+        "teamId": 1610612748,
+        "height": "6-7",
+        "weight": "215 lbs",
+        "age": "25",
+        "dob": "04/22/1994"
+    },
+    {
+        "firstName": "Jerome",
+        "lastName": "Robinson",
+        "playerId": 1629010,
+        "teamId": 1610612746,
+        "height": "6-4",
+        "weight": "190 lbs",
+        "age": "22",
+        "dob": "02/22/1997"
+    },
+    {
+        "firstName": "Justin",
+        "lastName": "Robinson",
+        "playerId": 1629620,
+        "teamId": 1610612764,
+        "height": "",
+        "weight": " lbs",
+        "age": "22",
+        "dob": "10/12/1997"
+    },
+    {
+        "firstName": "Mitchell",
+        "lastName": "Robinson",
+        "playerId": 1629011,
+        "teamId": 1610612752,
+        "height": "7-0",
+        "weight": "240 lbs",
+        "age": "21",
+        "dob": "04/01/1998"
+    },
+    {
+        "firstName": "Glenn",
+        "lastName": "Robinson III",
+        "playerId": 203922,
+        "teamId": 1610612744,
+        "height": "6-6",
+        "weight": "222 lbs",
+        "age": "26",
+        "dob": "01/08/1994"
+    },
+    {
+        "firstName": "Isaiah",
+        "lastName": "Roby",
+        "playerId": 1629676,
+        "teamId": 1610612742,
+        "height": "6-8",
+        "weight": "230 lbs",
+        "age": "22",
+        "dob": "02/03/1998"
+    },
+    {
+        "firstName": "Rajon",
+        "lastName": "Rondo",
+        "playerId": 200765,
+        "teamId": 1610612747,
+        "height": "6-1",
+        "weight": "180 lbs",
+        "age": "33",
+        "dob": "02/22/1986"
+    },
+    {
+        "firstName": "Derrick",
+        "lastName": "Rose",
+        "playerId": 201565,
+        "teamId": 1610612765,
+        "height": "6-2",
+        "weight": "200 lbs",
+        "age": "31",
+        "dob": "10/04/1988"
+    },
+    {
+        "firstName": "Terrence",
+        "lastName": "Ross",
+        "playerId": 203082,
+        "teamId": 1610612753,
+        "height": "6-6",
+        "weight": "206 lbs",
+        "age": "29",
+        "dob": "02/05/1991"
+    },
+    {
+        "firstName": "Terry",
+        "lastName": "Rozier",
+        "playerId": 1626179,
+        "teamId": 1610612766,
+        "height": "6-1",
+        "weight": "190 lbs",
+        "age": "25",
+        "dob": "03/17/1994"
+    },
+    {
+        "firstName": "Ricky",
+        "lastName": "Rubio",
+        "playerId": 201937,
+        "teamId": 1610612756,
+        "height": "6-3",
+        "weight": "190 lbs",
+        "age": "29",
+        "dob": "10/21/1990"
+    },
+    {
+        "firstName": "D'Angelo",
+        "lastName": "Russell",
+        "playerId": 1626156,
+        "teamId": 1610612744,
+        "height": "6-4",
+        "weight": "193 lbs",
+        "age": "23",
+        "dob": "02/23/1996"
+    },
+    {
+        "firstName": "Domantas",
+        "lastName": "Sabonis",
+        "playerId": 1627734,
+        "teamId": 1610612754,
+        "height": "6-11",
+        "weight": "240 lbs",
+        "age": "23",
+        "dob": "05/03/1996"
+    },
+    {
+        "firstName": "Luka",
+        "lastName": "Samanic",
+        "playerId": 1629677,
+        "teamId": 1610612759,
+        "height": "6-10",
+        "weight": "227 lbs",
+        "age": "20",
+        "dob": "01/09/2000"
+    },
+    {
+        "firstName": "JaKarr",
+        "lastName": "Sampson",
+        "playerId": 203960,
+        "teamId": 1610612754,
+        "height": "6-7",
+        "weight": "214 lbs",
+        "age": "26",
+        "dob": "03/20/1993"
+    },
+    {
+        "firstName": "Dario",
+        "lastName": "Saric",
+        "playerId": 203967,
+        "teamId": 1610612756,
+        "height": "6-10",
+        "weight": "225 lbs",
+        "age": "25",
+        "dob": "04/08/1994"
+    },
+    {
+        "firstName": "Tomas",
+        "lastName": "Satoransky",
+        "playerId": 203107,
+        "teamId": 1610612741,
+        "height": "6-7",
+        "weight": "210 lbs",
+        "age": "28",
+        "dob": "10/30/1991"
+    },
+    {
+        "firstName": "Admiral",
+        "lastName": "Schofield",
+        "playerId": 1629678,
+        "teamId": 1610612764,
+        "height": "6-5",
+        "weight": "241 lbs",
+        "age": "22",
+        "dob": "03/30/1997"
+    },
+    {
+        "firstName": "Dennis",
+        "lastName": "Schroder",
+        "playerId": 203471,
+        "teamId": 1610612760,
+        "height": "6-1",
+        "weight": "172 lbs",
+        "age": "26",
+        "dob": "09/15/1993"
+    },
+    {
+        "firstName": "Mike",
+        "lastName": "Scott",
+        "playerId": 203118,
+        "teamId": 1610612755,
+        "height": "6-7",
+        "weight": "237 lbs",
+        "age": "31",
+        "dob": "07/16/1988"
+    },
+    {
+        "firstName": "Thabo",
+        "lastName": "Sefolosha",
+        "playerId": 200757,
+        "teamId": 1610612745,
+        "height": "6-6",
+        "weight": "215 lbs",
+        "age": "35",
+        "dob": "05/02/1984"
+    },
+    {
+        "firstName": "Collin",
+        "lastName": "Sexton",
+        "playerId": 1629012,
+        "teamId": 1610612739,
+        "height": "6-1",
+        "weight": "190 lbs",
+        "age": "21",
+        "dob": "01/04/1999"
+    },
+    {
+        "firstName": "Landry",
+        "lastName": "Shamet",
+        "playerId": 1629013,
+        "teamId": 1610612746,
+        "height": "6-4",
+        "weight": "190 lbs",
+        "age": "22",
+        "dob": "03/13/1997"
+    },
+    {
+        "firstName": "Marial",
+        "lastName": "Shayok",
+        "playerId": 1629621,
+        "teamId": 1610612755,
+        "height": "6-5",
+        "weight": "198 lbs",
+        "age": "24",
+        "dob": "07/26/1995"
+    },
+    {
+        "firstName": "Pascal",
+        "lastName": "Siakam",
+        "playerId": 1627783,
+        "teamId": 1610612761,
+        "height": "6-9",
+        "weight": "230 lbs",
+        "age": "25",
+        "dob": "04/02/1994"
+    },
+    {
+        "firstName": "Chris",
+        "lastName": "Silva",
+        "playerId": 1629735,
+        "teamId": 1610612748,
+        "height": "6-8",
+        "weight": "234 lbs",
+        "age": "23",
+        "dob": "09/19/1996"
+    },
+    {
+        "firstName": "Ben",
+        "lastName": "Simmons",
+        "playerId": 1627732,
+        "teamId": 1610612755,
+        "height": "6-10",
+        "weight": "240 lbs",
+        "age": "23",
+        "dob": "07/20/1996"
+    },
+    {
+        "firstName": "Kobi",
+        "lastName": "Simmons",
+        "playerId": 1628424,
+        "teamId": 1610612766,
+        "height": "6-5",
+        "weight": "180 lbs",
+        "age": "22",
+        "dob": "07/04/1997"
+    },
+    {
+        "firstName": "Anfernee",
+        "lastName": "Simons",
+        "playerId": 1629014,
+        "teamId": 1610612757,
+        "height": "6-3",
+        "weight": "181 lbs",
+        "age": "20",
+        "dob": "06/08/1999"
+    },
+    {
+        "firstName": "Alen",
+        "lastName": "Smailagic",
+        "playerId": 1629346,
+        "teamId": 1610612744,
+        "height": "6-10",
+        "weight": "215 lbs",
+        "age": "19",
+        "dob": "08/18/2000"
+    },
+    {
+        "firstName": "Marcus",
+        "lastName": "Smart",
+        "playerId": 203935,
+        "teamId": 1610612738,
+        "height": "6-3",
+        "weight": "220 lbs",
+        "age": "25",
+        "dob": "03/06/1994"
+    },
+    {
+        "firstName": "Ish",
+        "lastName": "Smith",
+        "playerId": 202397,
+        "teamId": 1610612764,
+        "height": "6-0",
+        "weight": "175 lbs",
+        "age": "31",
+        "dob": "07/05/1988"
+    },
+    {
+        "firstName": "Zhaire",
+        "lastName": "Smith",
+        "playerId": 1629015,
+        "teamId": 1610612755,
+        "height": "6-3",
+        "weight": "205 lbs",
+        "age": "20",
+        "dob": "06/04/1999"
+    },
+    {
+        "firstName": "Dennis",
+        "lastName": "Smith Jr.",
+        "playerId": 1628372,
+        "teamId": 1610612752,
+        "height": "6-2",
+        "weight": "205 lbs",
+        "age": "22",
+        "dob": "11/25/1997"
+    },
+    {
+        "firstName": "Tony",
+        "lastName": "Snell",
+        "playerId": 203503,
+        "teamId": 1610612765,
+        "height": "6-6",
+        "weight": "213 lbs",
+        "age": "28",
+        "dob": "11/10/1991"
+    },
+    {
+        "firstName": "Omari",
+        "lastName": "Spellman",
+        "playerId": 1629016,
+        "teamId": 1610612744,
+        "height": "6-8",
+        "weight": "245 lbs",
+        "age": "22",
+        "dob": "07/21/1997"
+    },
+    {
+        "firstName": "Edmond",
+        "lastName": "Sumner",
+        "playerId": 1628410,
+        "teamId": 1610612754,
+        "height": "6-4",
+        "weight": "196 lbs",
+        "age": "24",
+        "dob": "12/31/1995"
+    },
+    {
+        "firstName": "Caleb",
+        "lastName": "Swanigan",
+        "playerId": 1628403,
+        "teamId": 1610612758,
+        "height": "6-9",
+        "weight": "260 lbs",
+        "age": "22",
+        "dob": "04/18/1997"
+    },
+    {
+        "firstName": "Jayson",
+        "lastName": "Tatum",
+        "playerId": 1628369,
+        "teamId": 1610612738,
+        "height": "6-8",
+        "weight": "210 lbs",
+        "age": "21",
+        "dob": "03/03/1998"
+    },
+    {
+        "firstName": "Jeff",
+        "lastName": "Teague",
+        "playerId": 201952,
+        "teamId": 1610612750,
+        "height": "6-3",
+        "weight": "195 lbs",
+        "age": "31",
+        "dob": "06/10/1988"
+    },
+    {
+        "firstName": "Garrett",
+        "lastName": "Temple",
+        "playerId": 202066,
+        "teamId": 1610612751,
+        "height": "6-5",
+        "weight": "195 lbs",
+        "age": "33",
+        "dob": "05/08/1986"
+    },
+    {
+        "firstName": "Daniel",
+        "lastName": "Theis",
+        "playerId": 1628464,
+        "teamId": 1610612738,
+        "height": "6-8",
+        "weight": "245 lbs",
+        "age": "27",
+        "dob": "04/04/1992"
+    },
+    {
+        "firstName": "Isaiah",
+        "lastName": "Thomas",
+        "playerId": 202738,
+        "teamId": 1610612764,
+        "height": "",
+        "weight": " lbs",
+        "age": "31",
+        "dob": "02/07/1989"
+    },
+    {
+        "firstName": "Khyri",
+        "lastName": "Thomas",
+        "playerId": 1629017,
+        "teamId": 1610612765,
+        "height": "6-3",
+        "weight": "210 lbs",
+        "age": "23",
+        "dob": "05/08/1996"
+    },
+    {
+        "firstName": "Matt",
+        "lastName": "Thomas",
+        "playerId": 1629744,
+        "teamId": 1610612761,
+        "height": "6-4",
+        "weight": "190 lbs",
+        "age": "25",
+        "dob": "08/04/1994"
+    },
+    {
+        "firstName": "Klay",
+        "lastName": "Thompson",
+        "playerId": 202691,
+        "teamId": 1610612744,
+        "height": "6-6",
+        "weight": "215 lbs",
+        "age": "30",
+        "dob": "02/08/1990"
+    },
+    {
+        "firstName": "Tristan",
+        "lastName": "Thompson",
+        "playerId": 202684,
+        "teamId": 1610612739,
+        "height": "6-9",
+        "weight": "254 lbs",
+        "age": "28",
+        "dob": "03/13/1991"
+    },
+    {
+        "firstName": "Matisse",
+        "lastName": "Thybulle",
+        "playerId": 1629680,
+        "teamId": 1610612755,
+        "height": "6-5",
+        "weight": "201 lbs",
+        "age": "22",
+        "dob": "03/04/1997"
+    },
+    {
+        "firstName": "Anthony",
+        "lastName": "Tolliver",
+        "playerId": 201229,
+        "teamId": 1610612757,
+        "height": "6-8",
+        "weight": "240 lbs",
+        "age": "34",
+        "dob": "06/01/1985"
+    },
+    {
+        "firstName": "Karl-Anthony",
+        "lastName": "Towns",
+        "playerId": 1626157,
+        "teamId": 1610612750,
+        "height": "6-11",
+        "weight": "248 lbs",
+        "age": "24",
+        "dob": "11/15/1995"
+    },
+    {
+        "firstName": "Gary",
+        "lastName": "Trent Jr.",
+        "playerId": 1629018,
+        "teamId": 1610612757,
+        "height": "6-5",
+        "weight": "209 lbs",
+        "age": "21",
+        "dob": "01/18/1999"
+    },
+    {
+        "firstName": "Allonzo",
+        "lastName": "Trier",
+        "playerId": 1629019,
+        "teamId": 1610612752,
+        "height": "6-4",
+        "weight": "200 lbs",
+        "age": "24",
+        "dob": "01/17/1996"
+    },
+    {
+        "firstName": "P.J.",
+        "lastName": "Tucker",
+        "playerId": 200782,
+        "teamId": 1610612745,
+        "height": "6-5",
+        "weight": "245 lbs",
+        "age": "34",
+        "dob": "05/05/1985"
+    },
+    {
+        "firstName": "Evan",
+        "lastName": "Turner",
+        "playerId": 202323,
+        "teamId": 1610612737,
+        "height": "6-6",
+        "weight": "220 lbs",
+        "age": "31",
+        "dob": "10/27/1988"
+    },
+    {
+        "firstName": "Myles",
+        "lastName": "Turner",
+        "playerId": 1626167,
+        "teamId": 1610612754,
+        "height": "6-11",
+        "weight": "250 lbs",
+        "age": "23",
+        "dob": "03/24/1996"
+    },
+    {
+        "firstName": "Jonas",
+        "lastName": "Valanciunas",
+        "playerId": 202685,
+        "teamId": 1610612763,
+        "height": "6-11",
+        "weight": "265 lbs",
+        "age": "27",
+        "dob": "05/06/1992"
+    },
+    {
+        "firstName": "Denzel",
+        "lastName": "Valentine",
+        "playerId": 1627756,
+        "teamId": 1610612741,
+        "height": "6-4",
+        "weight": "220 lbs",
+        "age": "26",
+        "dob": "11/16/1993"
+    },
+    {
+        "firstName": "Fred",
+        "lastName": "VanVleet",
+        "playerId": 1627832,
+        "teamId": 1610612761,
+        "height": "6-1",
+        "weight": "197 lbs",
+        "age": "25",
+        "dob": "02/25/1994"
+    },
+    {
+        "firstName": "Jarred",
+        "lastName": "Vanderbilt",
+        "playerId": 1629020,
+        "teamId": 1610612743,
+        "height": "6-9",
+        "weight": "214 lbs",
+        "age": "20",
+        "dob": "04/03/1999"
+    },
+    {
+        "firstName": "Noah",
+        "lastName": "Vonleh",
+        "playerId": 203943,
+        "teamId": 1610612750,
+        "height": "6-10",
+        "weight": "257 lbs",
+        "age": "24",
+        "dob": "08/24/1995"
+    },
+    {
+        "firstName": "Nikola",
+        "lastName": "Vucevic",
+        "playerId": 202696,
+        "teamId": 1610612753,
+        "height": "6-11",
+        "weight": "260 lbs",
+        "age": "29",
+        "dob": "10/24/1990"
+    },
+    {
+        "firstName": "Dean",
+        "lastName": "Wade",
+        "playerId": 1629731,
+        "teamId": 1610612739,
+        "height": "6-9",
+        "weight": "228 lbs",
+        "age": "23",
+        "dob": "11/20/1996"
+    },
+    {
+        "firstName": "Moritz",
+        "lastName": "Wagner",
+        "playerId": 1629021,
+        "teamId": 1610612764,
+        "height": "6-11",
+        "weight": "245 lbs",
+        "age": "22",
+        "dob": "04/26/1997"
+    },
+    {
+        "firstName": "Dion",
+        "lastName": "Waiters",
+        "playerId": 203079,
+        "teamId": 1610612748,
+        "height": "",
+        "weight": " lbs",
+        "age": "28",
+        "dob": "12/10/1991"
+    },
+    {
+        "firstName": "Kemba",
+        "lastName": "Walker",
+        "playerId": 202689,
+        "teamId": 1610612738,
+        "height": "6-0",
+        "weight": "184 lbs",
+        "age": "29",
+        "dob": "05/08/1990"
+    },
+    {
+        "firstName": "Lonnie",
+        "lastName": "Walker IV",
+        "playerId": 1629022,
+        "teamId": 1610612759,
+        "height": "6-5",
+        "weight": "204 lbs",
+        "age": "21",
+        "dob": "12/14/1998"
+    },
+    {
+        "firstName": "John",
+        "lastName": "Wall",
+        "playerId": 202322,
+        "teamId": 1610612764,
+        "height": "6-4",
+        "weight": "210 lbs",
+        "age": "29",
+        "dob": "09/06/1990"
+    },
+    {
+        "firstName": "Derrick",
+        "lastName": "Walton Jr.",
+        "playerId": 1628476,
+        "teamId": 1610612746,
+        "height": "",
+        "weight": " lbs",
+        "age": "24",
+        "dob": "04/03/1995"
+    },
+    {
+        "firstName": "Brad",
+        "lastName": "Wanamaker",
+        "playerId": 202954,
+        "teamId": 1610612738,
+        "height": "6-3",
+        "weight": "210 lbs",
+        "age": "30",
+        "dob": "07/25/1989"
+    },
+    {
+        "firstName": "T.J.",
+        "lastName": "Warren",
+        "playerId": 203933,
+        "teamId": 1610612754,
+        "height": "6-8",
+        "weight": "220 lbs",
+        "age": "26",
+        "dob": "09/05/1993"
+    },
+    {
+        "firstName": "P.J.",
+        "lastName": "Washington",
+        "playerId": 1629023,
+        "teamId": 1610612766,
+        "height": "6-7",
+        "weight": "230 lbs",
+        "age": "21",
+        "dob": "08/23/1998"
+    },
+    {
+        "firstName": "Yuta",
+        "lastName": "Watanabe",
+        "playerId": 1629139,
+        "teamId": 1610612763,
+        "height": "6-8",
+        "weight": "215 lbs",
+        "age": "25",
+        "dob": "10/13/1994"
+    },
+    {
+        "firstName": "Tremont",
+        "lastName": "Waters",
+        "playerId": 1629682,
+        "teamId": 1610612738,
+        "height": "5-10",
+        "weight": "175 lbs",
+        "age": "22",
+        "dob": "01/10/1998"
+    },
+    {
+        "firstName": "Quinndary",
+        "lastName": "Weatherspoon",
+        "playerId": 1629683,
+        "teamId": 1610612759,
+        "height": "6-3",
+        "weight": "205 lbs",
+        "age": "23",
+        "dob": "09/10/1996"
+    },
+    {
+        "firstName": "Russell",
+        "lastName": "Westbrook",
+        "playerId": 201566,
+        "teamId": 1610612745,
+        "height": "6-3",
+        "weight": "200 lbs",
+        "age": "31",
+        "dob": "11/12/1988"
+    },
+    {
+        "firstName": "Coby",
+        "lastName": "White",
+        "playerId": 1629632,
+        "teamId": 1610612741,
+        "height": "6-4",
+        "weight": "195 lbs",
+        "age": "20",
+        "dob": "02/16/2000"
+    },
+    {
+        "firstName": "Derrick",
+        "lastName": "White",
+        "playerId": 1628401,
+        "teamId": 1610612759,
+        "height": "6-4",
+        "weight": "190 lbs",
+        "age": "25",
+        "dob": "07/02/1994"
+    },
+    {
+        "firstName": "Hassan",
+        "lastName": "Whiteside",
+        "playerId": 202355,
+        "teamId": 1610612757,
+        "height": "7-0",
+        "weight": "265 lbs",
+        "age": "30",
+        "dob": "06/13/1989"
+    },
+    {
+        "firstName": "Andrew",
+        "lastName": "Wiggins",
+        "playerId": 203952,
+        "teamId": 1610612750,
+        "height": "6-7",
+        "weight": "197 lbs",
+        "age": "24",
+        "dob": "02/23/1995"
+    },
+    {
+        "firstName": "Grant",
+        "lastName": "Williams",
+        "playerId": 1629684,
+        "teamId": 1610612738,
+        "height": "6-6",
+        "weight": "236 lbs",
+        "age": "21",
+        "dob": "11/30/1998"
+    },
+    {
+        "firstName": "Kenrich",
+        "lastName": "Williams",
+        "playerId": 1629026,
+        "teamId": 1610612740,
+        "height": "6-6",
+        "weight": "210 lbs",
+        "age": "25",
+        "dob": "12/02/1994"
+    },
+    {
+        "firstName": "Lou",
+        "lastName": "Williams",
+        "playerId": 101150,
+        "teamId": 1610612746,
+        "height": "6-1",
+        "weight": "175 lbs",
+        "age": "33",
+        "dob": "10/27/1986"
+    },
+    {
+        "firstName": "Marvin",
+        "lastName": "Williams",
+        "playerId": 101107,
+        "teamId": 1610612766,
+        "height": "6-8",
+        "weight": "237 lbs",
+        "age": "33",
+        "dob": "06/19/1986"
+    },
+    {
+        "firstName": "Robert",
+        "lastName": "Williams III",
+        "playerId": 1629057,
+        "teamId": 1610612738,
+        "height": "6-8",
+        "weight": "237 lbs",
+        "age": "22",
+        "dob": "10/17/1997"
+    },
+    {
+        "firstName": "Nigel",
+        "lastName": "Williams-Goss",
+        "playerId": 1628430,
+        "teamId": 1610612762,
+        "height": "6-2",
+        "weight": "190 lbs",
+        "age": "25",
+        "dob": "09/16/1994"
+    },
+    {
+        "firstName": "Zion",
+        "lastName": "Williamson",
+        "playerId": 1629627,
+        "teamId": 1610612740,
+        "height": "6-6",
+        "weight": "284 lbs",
+        "age": "19",
+        "dob": "07/06/2000"
+    },
+    {
+        "firstName": "D.J.",
+        "lastName": "Wilson",
+        "playerId": 1628391,
+        "teamId": 1610612749,
+        "height": "6-10",
+        "weight": "231 lbs",
+        "age": "24",
+        "dob": "02/19/1996"
+    },
+    {
+        "firstName": "Dylan",
+        "lastName": "Windler",
+        "playerId": 1629685,
+        "teamId": 1610612739,
+        "height": "6-6",
+        "weight": "196 lbs",
+        "age": "23",
+        "dob": "09/22/1996"
+    },
+    {
+        "firstName": "Justise",
+        "lastName": "Winslow",
+        "playerId": 1626159,
+        "teamId": 1610612748,
+        "height": "6-6",
+        "weight": "222 lbs",
+        "age": "23",
+        "dob": "03/26/1996"
+    },
+    {
+        "firstName": "Christian",
+        "lastName": "Wood",
+        "playerId": 1626174,
+        "teamId": 1610612765,
+        "height": "6-10",
+        "weight": "214 lbs",
+        "age": "24",
+        "dob": "09/27/1995"
+    },
+    {
+        "firstName": "Delon",
+        "lastName": "Wright",
+        "playerId": 1626153,
+        "teamId": 1610612742,
+        "height": "6-5",
+        "weight": "185 lbs",
+        "age": "27",
+        "dob": "04/26/1992"
+    },
+    {
+        "firstName": "Justin",
+        "lastName": "Wright-Foreman",
+        "playerId": 1629625,
+        "teamId": 1610612762,
+        "height": "6-0",
+        "weight": "190 lbs",
+        "age": "22",
+        "dob": "10/27/1997"
+    },
+    {
+        "firstName": "Thaddeus",
+        "lastName": "Young",
+        "playerId": 201152,
+        "teamId": 1610612741,
+        "height": "6-8",
+        "weight": "235 lbs",
+        "age": "31",
+        "dob": "06/21/1988"
+    },
+    {
+        "firstName": "Trae",
+        "lastName": "Young",
+        "playerId": 1629027,
+        "teamId": 1610612737,
+        "height": "6-1",
+        "weight": "180 lbs",
+        "age": "21",
+        "dob": "09/19/1998"
+    },
+    {
+        "firstName": "Cody",
+        "lastName": "Zeller",
+        "playerId": 203469,
+        "teamId": 1610612766,
+        "height": "7-0",
+        "weight": "240 lbs",
+        "age": "27",
+        "dob": "10/05/1992"
+    },
+    {
+        "firstName": "Ante",
+        "lastName": "Zizic",
+        "playerId": 1627790,
+        "teamId": 1610612739,
+        "height": "6-10",
+        "weight": "266 lbs",
+        "age": "23",
+        "dob": "01/04/1997"
+    },
+    {
+        "firstName": "Ivica",
+        "lastName": "Zubac",
+        "playerId": 1627826,
+        "teamId": 1610612746,
+        "height": "7-0",
+        "weight": "240 lbs",
+        "age": "22",
+        "dob": "03/18/1997"
+    }
+]

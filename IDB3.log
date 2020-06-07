@@ -1,0 +1,731 @@
+commit 736b85362d03f9b1b9fe5f3b88ca459f82e12e5b
+Author: Oscar Ortiz <oortiz03@yahoo.com>
+Date:   Thu Apr 23 16:35:27 2020 +0000
+
+    Added three more unit tests
+
+commit 970830aefc6468457f68fa9ff7cc25a3b2744a6b
+Author: Oscar Ortiz <oortiz03@yahoo.com>
+Date:   Thu Apr 23 16:34:14 2020 +0000
+
+    Fixed number of commits, issues, unittests
+
+commit a9598d8e0454520922a9e198c0c30b97f9182f9a
+Author: Basilio Bazan <basilio@cs.utexas.edu>
+Date:   Thu Apr 23 11:31:01 2020 -0500
+
+    NBAnalytics title
+
+commit 931c2ff17ff41af7b618349743c34dccd5c1d6b0
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Wed Apr 22 21:44:07 2020 -0500
+
+    fixed duplicates
+
+commit 9ef616d36d403422e37088bffd6a66301954b729
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Wed Apr 22 21:13:35 2020 -0500
+
+    fixed unit test issue clearing db
+
+commit 5b459989510e817b2356d566e6a5a04cb0448649
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Wed Apr 22 20:16:33 2020 -0500
+
+    fix models
+
+commit dc1a08ca5f63da1384db114f4cff59594445c298
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Wed Apr 22 19:48:14 2020 -0500
+
+    fixed search problem
+
+commit a790712831250489518661b2b4867fe0846d7a7f
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Wed Apr 22 18:48:51 2020 -0500
+
+    fixes search page organization and refreshing
+
+commit e138cd84d55a0b5afcf2196fa4c7a3d4fbf2ec80
+Author: Basilio Bazan <basilio@cs.utexas.edu>
+Date:   Tue Apr 21 14:04:50 2020 -0500
+
+    More Unit Tests
+
+commit e7c631b475bd7af438ee56cfc071deb22c95688b
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Mon Apr 20 11:16:21 2020 -0500
+
+    Updated search.html
+
+commit 3f334743f97ca3ebd24430f302aaa02f4f1bfe54
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Sun Apr 19 22:16:19 2020 -0500
+
+    Updated json pages
+
+commit 54ea284e8ee3b531c439caf22137dab132b60eef
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Sun Apr 19 21:45:59 2020 -0500
+
+    Added note to self
+
+commit 9cdf87da6219412d0666636bf19fb4711d95b8e2
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Sun Apr 19 18:03:11 2020 -0500
+
+    fixed testing issue
+
+commit 257d527545ea02886e698437db1e12bf297e3042
+Author: piercejk <piercejkotarski@utexas.edu>
+Date:   Wed Apr 15 22:33:59 2020 -0500
+
+    configured search button functionality and querying
+
+commit e6a863a9606b5af335848d53c2314bb3615fcfbf
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Mon Apr 13 11:53:34 2020 -0500
+
+    reformatted data and made the main page use queries instead of json
+
+commit 178bc8bdb6ca8cb63cb55b49cdc6bba9a1efb519
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Thu Apr 2 19:03:35 2020 -0500
+
+    configured yaml for gcp
+
+commit 3d6496de9df632bed5b35a02d1b3c7d29e8b60ce
+Author: Oscar Ortiz <oortiz03@yahoo.com>
+Date:   Thu Apr 2 23:22:12 2020 +0000
+
+    Re-generated git log in IDB1.log
+
+commit 1c11c1f66fd8f21ba789ee8242bd41a5f3cf9045
+Author: Oscar Ortiz <oortiz03@yahoo.com>
+Date:   Thu Apr 2 23:18:14 2020 +0000
+
+    Edited the commits, issues, and unittests for each person
+
+commit b87d75e4231f23fa077ad55a8e3d245461448237
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Thu Apr 2 14:44:53 2020 -0700
+
+    Link recent games to teams and players
+
+commit 29b792c67a5d201cf5213f1dcf6c28618348e65f
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Thu Apr 2 14:30:30 2020 -0700
+
+    Recent Games
+
+commit 260c89a3a6094da3cf7d9545cbacf854c162d2b4
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Thu Apr 2 15:10:32 2020 -0500
+
+    models.html
+
+commit fcebfd3bbb58523eeb3a5a4c1323428ee0e5482a
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Thu Apr 2 15:04:17 2020 -0500
+
+    .gitlab-ci.yml
+
+commit 9eecf8233022ddcab5049d19efe7d7e5bc519d67
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Thu Apr 2 13:35:22 2020 -0500
+
+    Update .gitignore and testing2
+
+commit d6f909b59040190e6436fcdfe1a2be17b2dd836f
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Thu Apr 2 13:34:41 2020 -0500
+
+    Update .gitignore and testing
+
+commit 1a7a9f742dfd40c9daf4c6c92a4aa3541f12649a
+Author: Oscar Ortiz <oortiz03@yahoo.com>
+Date:   Thu Apr 2 07:36:58 2020 +0000
+
+    Added button that runs test.py and displays the results.
+
+commit 5380a8157921ae282461cccc55798710419b0ed4
+Author: Oscar Ortiz <oortiz03@yahoo.com>
+Date:   Thu Apr 2 07:35:08 2020 +0000
+
+    Imported subprocess library and saved test.py results as a variable to send to about.html
+
+commit b001593523b69ef19c1ba60e8173f94be3e20cdb
+Author: Basilio Bazan <basilio@cs.utexas.edu>
+Date:   Wed Apr 1 23:55:19 2020 -0500
+
+    Added Database Unittests
+
+commit 897d737e7127e04b239659ca6872f79753a5c316
+Merge: f2bfb15 b9a1e16
+Author: Basilio Bazan <basilio@cs.utexas.edu>
+Date:   Wed Apr 1 21:05:34 2020 -0500
+
+    Merge branch 'tony-dev-branch' of https://gitlab.com/millslemaire/cs331e-group-project
+
+commit f2bfb15cba08d62cbaa3d67234a95e56e6f12799
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Wed Apr 1 10:30:37 2020 -0500
+
+    database instanced with Player, Team and Game now
+
+commit abd39d24eeb36577cdc50118a977c0edff8bbf13
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Wed Apr 1 10:04:56 2020 -0500
+
+    Updated create_db.py and main.py to include Game objects
+
+commit 56b95783194d7bec6bcd656dda2773e0dbceb8e5
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Wed Apr 1 09:57:53 2020 -0500
+
+    Updated models.py to include Game DB objects
+
+commit b9a1e162199035b65d43fbe74590a633277b9e3e
+Author: Tony Nguyen <blue28275@yahoo.com>
+Date:   Tue Mar 31 21:19:48 2020 -0500
+
+    adding test cases
+    
+    -render templates
+    -type assert
+
+commit 76102f9d996d664250551de5b6107251ca912948
+Author: Tony Nguyen <blue28275@yahoo.com>
+Date:   Tue Mar 31 19:51:42 2020 -0500
+
+    Update test.py
+    
+    framework
+
+commit 4f7cd021f166b010687a2abda296600901f65d1b
+Author: Tony Nguyen <blue28275@yahoo.com>
+Date:   Tue Mar 31 18:06:55 2020 -0500
+
+    Update .gitignore
+    
+    -pycharm
+
+commit af49d2ccf07529bde292d8be863738afa68bb7f0
+Merge: 4eb7a17 4373aa9
+Author: Tony Nguyen <blue28275@yahoo.com>
+Date:   Tue Mar 31 17:55:23 2020 -0500
+
+    Merge branch 'master' into tony-dev-branch
+
+commit 4373aa96d1ddf502b00bcf519eba82ebc709f8f9
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Tue Mar 31 17:48:19 2020 -0500
+
+    integrated db and unit tests
+
+commit 4eb7a171be10233cd5566c429aab7bb5bacd71cd
+Author: Tony Nguyen <blue28275@yahoo.com>
+Date:   Tue Mar 31 17:17:25 2020 -0500
+
+    fixed button glow for Games
+
+commit ed7324e1e64b1be0d6241edf02faea6fa3230108
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Mon Feb 24 10:14:55 2020 -0600
+
+    project json after turning in and gitlab api tut
+
+commit bc89bb820a645ad20a2eb1340e75e44a2ad68ba2
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Thu Feb 20 21:39:09 2020 -0600
+
+    create IDB1.log
+
+commit bae32ae8bf124e20ad0785c350d31edd2ff2e250
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Thu Feb 20 21:36:13 2020 -0600
+
+    add projectjson file
+
+commit 51ea662df21212cfdf2b266535dce96ef007ae9e
+Author: Oscar Ortiz <oortiz03@yahoo.com>
+Date:   Thu Feb 20 20:07:29 2020 +0000
+
+    Filled in all current stats
+
+commit 1fe7cc27985e86ed16ae2de85fa97654057b513a
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Thu Feb 20 11:35:13 2020 -0800
+
+    Postseason Column
+
+commit e303909aea72ba274ccd4876d925c454fefdf0e1
+Merge: 2128316 5ce0d70
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Thu Feb 20 11:25:21 2020 -0800
+
+    Merge branch 'master' into smiter_branch
+
+commit 5ce0d706a5843481ac5d1a556fa21b800c29af66
+Merge: 963bbf7 f1abd29
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Thu Feb 20 11:25:02 2020 -0800
+
+    Merge branch 'master' of https://gitlab.com/millslemaire/cs331e-group-project
+
+commit 2128316fdfb6022ca11c20293d63843bc1958c91
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Thu Feb 20 11:24:05 2020 -0800
+
+    Linkable Games to Teams
+
+commit f1abd298c67a28b2994862a2386bd9c6fec214d9
+Author: Oscar Ortiz <oortiz03@yahoo.com>
+Date:   Thu Feb 20 19:15:10 2020 +0000
+
+    Updated requirements.txt
+
+commit b4141a82828c21b030d00db8789f3c8c1cac612d
+Merge: 4350026 963bbf7
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Thu Feb 20 11:01:25 2020 -0800
+
+    Merge branch 'master' into smiter_branch
+
+commit 963bbf7abc498d777b00cded4e4fe5d917451d75
+Merge: be63c0f f46705a
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Thu Feb 20 10:58:43 2020 -0800
+
+    Merge branch 'master' of https://gitlab.com/millslemaire/cs331e-group-project
+
+commit f46705a6c04e94c2d942a9e9cdf05d85cb8f2b06
+Merge: af6b06f 9fee8e6
+Author: millslemaire <jmills.lemaire@utexas.edu>
+Date:   Thu Feb 20 18:04:33 2020 +0000
+
+    Merge branch 'oscar-dev-branch' into 'master'
+    
+    Oscar dev branch
+    
+    See merge request millslemaire/cs331e-group-project!6
+
+commit be63c0f2fa4a712084b463df94fbffd5789ea299
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Thu Feb 20 10:03:40 2020 -0800
+
+    Fixing navbar merge conflict
+
+commit 9fee8e6a9bbffbdf6eb7766fc93c49fc0ac4fcbc
+Author: Oscar Ortiz <oortiz03@yahoo.com>
+Date:   Thu Feb 20 18:00:05 2020 +0000
+
+    Added requirements.txt
+
+commit bbdc03ffee6dfadb36378d1b409a3d9de17f530e
+Author: Oscar Ortiz <oortiz03@yahoo.com>
+Date:   Thu Feb 20 17:59:43 2020 +0000
+
+    Added app.yaml
+
+commit 6b229ce09c743cf8ffe0ce68db4caf1e38b09dfc
+Merge: 5abf5b4 af6b06f
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Thu Feb 20 09:59:24 2020 -0800
+
+    Merge branch 'master' of https://gitlab.com/millslemaire/cs331e-group-project
+
+commit 43500264632b3e468bdb222bb1abe8b46d31ba47
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Thu Feb 20 09:58:08 2020 -0800
+
+    Testing merge
+
+commit 6a62ab5e62aef7fd500c4979fe168fdccd6e03a2
+Author: Oscar Ortiz <oortiz03@yahoo.com>
+Date:   Thu Feb 20 17:56:35 2020 +0000
+
+    Added bio and pictures to about.html
+
+commit af6b06f365760001a1ab1857d22e84e3b8e22ca5
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Thu Feb 20 11:31:17 2020 -0600
+
+    Pruned bad data, configured all that new data, added pagination
+
+commit 1aaceb4dfe2560c6e1035a0f118a0b0aff65965c
+Merge: 8c8f212 b63162d
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Thu Feb 20 10:35:53 2020 -0600
+
+    added more data
+
+commit b63162dea19316d44025237cd927045067a9ca48
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Thu Feb 20 10:33:12 2020 -0600
+
+    added more data
+
+commit 8c8f21270108267d360363c5db5518e6a72723ea
+Author: Basilio Bazan <basilio@cs.utexas.edu>
+Date:   Wed Feb 19 18:05:06 2020 -0600
+
+    Trying to get nav buttons working
+
+commit 5abf5b4a145bae7500f7752816eb7611953e7e09
+Merge: a4a962a d2dd9c3
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Wed Feb 19 15:48:50 2020 -0800
+
+    Merge branch 'master' of https://gitlab.com/millslemaire/cs331e-group-project
+
+commit d2dd9c381cb50519b137bb0dc61e554ecd0b3b64
+Author: Basilio Bazan <basilio@cs.utexas.edu>
+Date:   Wed Feb 19 17:31:05 2020 -0600
+
+    player.html and team.html looking better
+
+commit f0819a9d17b474b0d36e57e7e27d8f4559cab054
+Merge: f7bdab0 37559a5
+Author: Basilio Bazan <basilio@cs.utexas.edu>
+Date:   Wed Feb 19 17:12:43 2020 -0600
+
+    Merge branch 'master' of https://gitlab.com/millslemaire/cs331e-group-project
+
+commit f7bdab094cea87f515c41e9c33e12a947aa7f249
+Author: Basilio Bazan <basilio@cs.utexas.edu>
+Date:   Wed Feb 19 17:12:20 2020 -0600
+
+    Fixed alignments on teams and players
+
+commit a4a962a5c32719f2f1cda2290e97ff1fda7c1c87
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Wed Feb 19 15:11:17 2020 -0800
+
+    Splash baby
+
+commit 125989c9c77f70fd1bfab94ccc967cb2cc5a3bd2
+Merge: 2f327dd 37559a5
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Wed Feb 19 15:08:19 2020 -0800
+
+    Merge branch 'master' into smiter_branch
+
+commit 2f327dd314f0d15ff37b6f53fdcb99ca278960e2
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Wed Feb 19 15:07:06 2020 -0800
+
+    json games
+
+commit 37559a59daf62e32b98a10a210442d3886e8a3cc
+Author: Tony Nguyen <blue28275@yahoo.com>
+Date:   Wed Feb 19 17:04:00 2020 -0600
+
+    buttons styles/font
+
+commit e057fdf6ea7626967fdfb8e87cbb1b319cdef51d
+Author: Tony Nguyen <blue28275@yahoo.com>
+Date:   Wed Feb 19 16:56:21 2020 -0600
+
+    css dir fix
+
+commit 476bc551cb5c2d1b93628054eaa1ee42bd007ef7
+Merge: 6d0cf0b a0e7267
+Author: Tony Nguyen <blue28275@yahoo.com>
+Date:   Wed Feb 19 16:40:59 2020 -0600
+
+    Merge branch 'master' into tony-dev-branch
+
+commit a0e7267be4db53f5f48aee0f89a6787cc4fe7df1
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Wed Feb 19 16:39:55 2020 -0600
+
+    linked players and teams and fixed button on splash page
+
+commit 6d0cf0baeeabf3d52d6bb5e0b075dfbe736718c9
+Merge: 1329001 16764ca
+Author: Tony Nguyen <blue28275@yahoo.com>
+Date:   Wed Feb 19 16:09:36 2020 -0600
+
+    Merge branch 'master' into tony-dev-branch
+
+commit 16764ca9a7d795be181d2f3ff2e551092c8179b7
+Merge: f15a528 13090e8
+Author: Basilio Bazan <basilio@cs.utexas.edu>
+Date:   Wed Feb 19 16:05:45 2020 -0600
+
+    Merge branch 'master' of https://gitlab.com/millslemaire/cs331e-group-project
+
+commit f15a528dff3bd806d53c59bce4c2bfe954e8f67b
+Author: Basilio Bazan <basilio@cs.utexas.edu>
+Date:   Wed Feb 19 16:05:21 2020 -0600
+
+    Splash Images
+
+commit 132900190460cb8fcdb8acdac32f2bc5d2d62d6f
+Merge: 95e6208 13090e8
+Author: Tony Nguyen <blue28275@yahoo.com>
+Date:   Wed Feb 19 15:59:53 2020 -0600
+
+    Merge branch 'master' into tony-dev-branch
+
+commit e3d6f57682629c28752624e2453bfc02b77fa210
+Merge: d1be0a5 13090e8
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Wed Feb 19 13:59:43 2020 -0800
+
+    Merge branch 'master' into smiter_branch
+
+commit 13090e85f5860046bac8ca6c575596d92d357072
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Wed Feb 19 15:56:04 2020 -0600
+
+    Added games.json
+
+commit 95e6208f70aacb344f6cac8befdc69bb260f08fe
+Author: Tony Nguyen <blue28275@yahoo.com>
+Date:   Wed Feb 19 15:54:22 2020 -0600
+
+    fixed main.js
+
+commit d1be0a5b14b3942b60c4f6a9044cb4125a7f39f7
+Merge: f6dd160 2e197b8
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Wed Feb 19 13:50:12 2020 -0800
+
+    Merge branch 'master' into smiter_branch
+
+commit c266ef7a36d621d6656e65cd7905ead41b3d1563
+Merge: 5268255 2e197b8
+Author: Tony Nguyen <blue28275@yahoo.com>
+Date:   Wed Feb 19 15:49:50 2020 -0600
+
+    Merge branch 'master' into tony-dev-branch
+
+commit 5268255abe4c378330f1c9c7f17b8c30eccd6a79
+Author: Tony Nguyen <blue28275@yahoo.com>
+Date:   Wed Feb 19 15:49:09 2020 -0600
+
+    removed 1 main.js
+
+commit 2e197b8d4cc2cc1f005212e6ca4076c0f1d023ff
+Merge: 21f0ae9 57fc2a2
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Wed Feb 19 15:49:01 2020 -0600
+
+    change added
+
+commit 57fc2a29fb3fd61d2bbb1b54c904b80ad1513c71
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Wed Feb 19 15:47:43 2020 -0600
+
+    dynamic formatting added
+
+commit f6dd160a75f3cbec3822395f8a89d8db55e3ca98
+Merge: c1b5381 ccc1c3d
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Wed Feb 19 13:43:31 2020 -0800
+
+    Merge branch 'master' into smiter_branch
+
+commit 21f0ae93f7cd4d8805353f78a0579286b7de18f5
+Merge: ee878de ccc1c3d
+Author: Tony Nguyen <blue28275@yahoo.com>
+Date:   Wed Feb 19 15:42:46 2020 -0600
+
+    Merge branch 'master' into tony-dev-branch
+
+commit ccc1c3d0f0dad8407b7f56ec2ad416a4c4dae470
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Wed Feb 19 10:16:33 2020 -0600
+
+    More clean up
+
+commit ee878de95d5e9a154b89b588f8a368afb36f2b97
+Author: Tony Nguyen <blue28275@yahoo.com>
+Date:   Wed Feb 19 10:12:51 2020 -0600
+
+    smooth stuff
+
+commit 36c814560db7f6d05981631b7eb4650b387caacf
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Wed Feb 19 10:09:11 2020 -0600
+
+    Clean up after making sure json pages for teams/players worked
+
+commit 61ec1db2a299a370828dc218c0801b74a23f256a
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Wed Feb 19 10:05:26 2020 -0600
+
+    Data formatted into json files
+
+commit 430d9426b33ec539385b86220e9720fcd8d43e67
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Wed Feb 19 09:46:43 2020 -0600
+
+    Added new team data
+
+commit c1b538189e75d3e388cb87374e51ff86ad7aeb48
+Merge: dd222d6 ca8edfa
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Tue Feb 18 12:40:06 2020 -0800
+
+    Merge branch 'master' into smiter_branch
+
+commit dd222d6544bf573c909a7831a4520d72793cc418
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Tue Feb 18 12:37:25 2020 -0800
+
+    Sorting implementation -> Games Table
+
+commit ca8edfa0d1f33739961f1178ef33187efb05b792
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Tue Feb 18 12:31:47 2020 -0800
+
+    Sortable Games Table
+
+commit 456d7b4e37c856a0e11a54974f028c82185870d3
+Merge: 8d481d6 9561847
+Author: Pierce Kotarski <piercejkotarski@utexas.edu>
+Date:   Tue Feb 18 17:19:45 2020 +0000
+
+    Merge branch 'mills-dev-branch' into 'master'
+    
+    Mills dev branch
+    
+    See merge request millslemaire/cs331e-group-project!5
+
+commit 95618478bb03b2f685b7cff5745d417019a99516
+Merge: 61a2d47 8d481d6
+Author: Pierce Kotarski <piercejkotarski@utexas.edu>
+Date:   Tue Feb 18 17:19:20 2020 +0000
+
+    Merge branch 'master' into 'mills-dev-branch'
+    
+    # Conflicts:
+    #   main.py
+
+commit 8d481d66a54c9ea7e2b7253d0676840549c6b147
+Merge: f3c4d4b edb5204
+Author: Pierce Kotarski <piercejkotarski@utexas.edu>
+Date:   Tue Feb 18 17:11:38 2020 +0000
+
+    Merge branch 'teams-page' into 'master'
+    
+    Teams page
+    
+    See merge request millslemaire/cs331e-group-project!4
+
+commit edb5204f0c62db6dcd07b2f17f7776ce5f87ada1
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Tue Feb 18 11:09:11 2020 -0600
+
+    added teams page
+
+commit 55dc8b0e1054171d8fbd612d19b5a5ab491dcabf
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Tue Feb 18 11:08:02 2020 -0600
+
+    created a teams page
+
+commit f3c4d4be971428595207a6fe69ae650d4add5f02
+Merge: 051a291 879483b
+Author: Pierce Kotarski <piercejkotarski@utexas.edu>
+Date:   Tue Feb 18 17:07:20 2020 +0000
+
+    Merge branch 'oscar-dev-branch' into 'master'
+    
+    Added "about" page
+    
+    See merge request millslemaire/cs331e-group-project!3
+
+commit 879483b132ff02480dca5a8fa442ca673f513131
+Author: Oscar Ortiz <oortiz03@yahoo.com>
+Date:   Tue Feb 18 16:14:18 2020 +0000
+
+    Added about page
+
+commit 051a29163418be93121fda868483e0cd1c654ee0
+Merge: 03db096 b68d2a4
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Mon Feb 17 16:38:39 2020 -0800
+
+    Merge branch 'smiter_branch'
+
+commit b68d2a4e453c64241f3c5468f82cb056bda0a9af
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Mon Feb 17 16:37:41 2020 -0800
+
+    Games Table
+
+commit 03db0966c4effae20230b1f47888985660914a09
+Author: Basilio Bazan <basilio@cs.utexas.edu>
+Date:   Mon Feb 17 17:59:02 2020 -0600
+
+    splash page layout
+
+commit 61a2d475612f1927804e032d7d67a3e450f58ab8
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Mon Feb 17 17:18:47 2020 -0600
+
+    Added games defined in a dictionary
+
+commit d58bddd323fd79aa3c37fcefb831cd62018fc2e5
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Mon Feb 17 17:12:21 2020 -0600
+
+    Added teams and players defined as dictionaries
+
+commit 779d8294ce9eb2001ad999b6481ced609445bdac
+Author: Tyson Smiter <tyson.smiter@utexas.edu>
+Date:   Mon Feb 17 15:02:07 2020 -0800
+
+    Games page commit
+
+commit b853cde6000399280815b661bc6fb15d4a85702f
+Author: Mills LeMaire <jmills.lemaire@utexas.edu>
+Date:   Mon Feb 17 16:16:46 2020 -0600
+
+    Added requests for teams and players with teamsJSON and playersJSON pages"
+    
+    "
+
+commit 3b8eff61d15fd0d0b4c29c09df197fc89190f36f
+Merge: d586a71 9f4244a
+Author: Pierce Kotarski <piercejkotarski@utexas.edu>
+Date:   Mon Feb 17 22:16:13 2020 +0000
+
+    Merge branch 'navbar' into 'master'
+    
+    added navigation bar
+    
+    See merge request millslemaire/cs331e-group-project!2
+
+commit 9f4244a5e9a8093152e2cd58162eacaaadef63a4
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Mon Feb 17 16:13:12 2020 -0600
+
+    added navigation bar
+
+commit d586a711a8e94292e6c9308ddfa997930d481042
+Merge: 6a2e766 be033f8
+Author: Pierce Kotarski <piercejkotarski@utexas.edu>
+Date:   Mon Feb 17 21:39:24 2020 +0000
+
+    Merge branch 'create-project-structure' into 'master'
+    
+    Created general project structure and ensured that app ran
+    
+    See merge request millslemaire/cs331e-group-project!1
+
+commit be033f8b1fcd64de4fd7fd12a4bd0b4b1968c41a
+Author: Pierce Kotarski <pjkotarski@gmail.com>
+Date:   Sun Feb 16 17:25:13 2020 -0600
+
+    Created general project structure and ensured that app ran
+
+commit 6a2e766fd22454b395985a63cf712a2142992508
+Author: millslemaire <jmills.lemaire@utexas.edu>
+Date:   Wed Feb 12 18:14:43 2020 +0000
+
+    Initial commit

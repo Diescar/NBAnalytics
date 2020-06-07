@@ -1,0 +1,82 @@
+{% extends 'shell.html'%}
+{% block body %}
+
+<div>
+<div class="Splash">
+	<div class="h-100 container">
+		<div class="h-100 row">
+			<div class="my-auto col-lg-5">
+				<div class="header-content mx-auto">
+					<h2 class="mb-5">
+						Our objective is to provide an easy to navigate simple NBA player stat tracker. We provide
+						information on NBA teams, players and played games.
+					</h2>
+					<a id="btn-outline" href="#bottom" class="btn-outline btn btn-primary btn-lg">
+						Game On
+					</a>
+				</div>
+			</div>
+			<div class="my-auto col-lg-7">
+				<img src="https://www.freepnglogos.com/uploads/nba-logo-png/nba-debate-club-milken-hottest-new-club-the-roar-25.png" class="img-fluid" alt="nba-logo" style="height: 350px;">
+			</div>
+		</div>
+	</div>
+</div>
+
+<section class="DataCards bg-primary text-center" id="bottom">
+	<div class="container">
+		<div class="justify-content-center row" style="padding-top:30px;">
+			<h2>Check out NBA teams, players or games.</h2>
+		</div>
+		<div class="row" style="padding:50px;">
+			<div class="col-md-4" style="padding:10px;">
+				<div class="h-100 card">
+					<div class="card-body">
+						<div class="card-title h5">
+							<img src="https://foreignpolicyi.org/wp-content/uploads/2019/02/nba.jpg" alt="Teams" height="200" width="250">
+							<br>Teams
+						</div>
+						<p class="card-text">All 30 NBA teams and their current active rosters.</p>
+						<a id="goto-teams" href="/teams" class="btn btn-primary btn-sm">See All Teams</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4" style="padding:10px;">
+				<div class="h-100 card">
+					<div class="card-body">
+						<div class="card-title h5">
+							<img src="https://static01.nyt.com/images/2019/02/07/sports/07allstardraft/07allstardraft-articleLarge.jpg?quality=75&auto=webp&disable=upscale" alt="Games" height="200" width="250">
+							<br>Games
+						</div>
+						<p class="card-text">List of recent games with teams involved and points scored.</p>
+						<a id="goto-games" href="/games" class="btn btn-primary btn-sm">Explore Recent Games</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4" style="padding:10px;">
+				<div class="h-100 card">
+					<div class="card-body">
+						<div class="card-title h5">
+							<img src="https://www.pngarts.com/files/5/LeBron-James-Transparent-Background-PNG.png" alt="Players" height="200" width="310">
+							<br>Players
+						</div>
+						<p class="card-text">List of current active players and their stats.</p>
+						<a id="goto-players" href="/players/1" class="btn btn-primary btn-sm">Go To Players</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!--<div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+</div>-->
+
+{% endblock %}

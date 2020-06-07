@@ -1,0 +1,94 @@
+{% extends 'shell.html'%}
+{% block body %}
+
+
+    <div align="center">
+		<a href="/teams/{{team.teamId}}">
+			<img src="https://stats.nba.com/media/img/teams/logos/{{ team.abbreviation }}_logo.svg" alt="logo" width="300" height="300">
+		</a>
+		<img src="https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/{{ player.teamId }}/2019/260x190/{{player.playerId}}.png" alt="headshot">
+	</div>
+	<div align="center"> 
+		<h1>{{player.firstName}} {{player.lastName}}</h1>
+
+		<h2>{{team.teamName}}</h2>
+	</div>
+
+    <div align="center">
+		<div class="card" style="width: 18rem;" align="center">
+			<div class="card-header">
+				Player Info
+			</div>
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item">Height: {{player.height}}</li>
+				<li class="list-group-item">Weight: {{player.weight}}</li>
+                <li class="list-group-item">Age: {{player.age}}</li>
+                <li class="list-group-item">Date of Birth: {{player.dob}}</li>
+			</ul>
+		</div>
+	</div>
+
+	<br>
+    <br>
+<div class="row">
+    <div class="col-sm-6">
+        <table></table>
+    </div>
+</div>
+    <div  class="row justify-content-md-center">
+        <div class="center col-sm-6 " >
+			<h2 align="center">Recent Games</h2>
+    <table class="table table-striped" id="games_table">
+        <thead >
+          <tr>
+            <th scope="col">Date</th>
+            <th scope="col">Location</th>
+            <th scope="col">Teams</th>
+            <th scope="col">Score</th>
+            <th scope="col">Season</th>
+          </tr>
+        </thead>
+        <tbody>   
+          {% for game in games %}
+          <tr>
+            <td scope="row">{{game.date[:10]}}</td>
+            <td>{{game.city}}</td>
+            <td><a href="{{url_for('single_team_page', abbr = game.homeTeamAbbr)}}">{{game.homeTeamAbbr}}</a> - <a href="{{url_for('single_team_page', abbr = game.awayTeamAbbr)}}">{{game.awayTeamAbbr}}</a></td>
+            <td> {{game.homeTeamScore}} - {{game.awayTeamScore}} </td>
+            <td> {% if game.postseason %}
+              Postseason
+              {% else %}
+              Regular Season
+          {% endif %} </td>
+          </tr>
+          {% endfor %}
+          
+        </tbody>
+      </table>
+      <div align="center">
+      <a id="goto-games" href="/games" class="btn btn-primary btn-md games-link"> More Games</a>
+    </div>
+    </div>
+</div>
+<br/>
+		<br/>
+
+    <div class="container" align= "center">
+		<br/>
+		<br/>
+	    <h3> Teammates <h3>
+        <div class="row" align= "center">
+            {% for player in teamPlayers %}
+                <div class="col-sm">
+                    <div class="card" style="width: 18rem;">
+                        <img src="https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/{{ player.teamId }}/2019/260x190/{{player.playerId}}.png"
+                        alt="logo" class="card-img-top">
+                        <div class="card-body">
+                            <a href="/player/{{player.playerId}}" class="btn btn-primary team-link">{{player.firstName}} {{player.lastName}}</a>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,49 @@
+{% extends 'shell.html'%}
+
+{% block body %}
+
+    <div class="container">
+        <div class="row" align="center">
+            {% for player in players %}
+                <div class="col-sm">
+                    <div class="card" style="width: 18rem;">
+                        <img src="https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/{{ player.teamId }}/2019/260x190/{{player.playerId}}.png"
+                        alt="logo" class="card-img-top">
+                        <div class="card-body">
+                            <a href="/player/{{player.playerId}}" id="player-button" class="btn btn-primary team-link">{{player.firstName}} {{player.lastName}}</a>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    </br>
+    </br>
+
+    <div align="center">
+        <nav aria-label="Page navigation example">
+            <ul class="pagination pagination-lg justify-content-center">
+
+                {% if page_num != 1 %}
+                    <li class="page-item"><a class="page-link" href="./{{page_num - 1}}">Previous</a></li>
+                {% endif %}
+
+                {% for page in page_range %}
+                    {% if page == page_num %}
+                        <li class="page-item active">
+                            <a class="page-link" href="#">{{page}}<span class="sr-only">(current)</span></a>
+                        </li>
+                    {% else %}
+                        <li class="page-item"><a class="page-link" href="./{{page}}">{{page}}</a></li>
+                    {% endif %}
+                {% endfor %}
+
+                {% if page_num != 11 %}
+                    <li class="page-item"><a class="page-link" href="./{{page_num + 1}}">Next</a></li>
+                {% endif %}
+            </ul>
+        </nav>
+    </div>
+
+{% endblock %}
